@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'NextMap Disaster Management: Project Episode Videos'
 uid: e1de3512-4c66-8672-610d-3990db8ba87b
@@ -38,7 +42,7 @@ Episode 6
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/nextmapembed13) | [project home]({{< baseurl >}}/pages/projects/nextmap)
+[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed13) | [project home]({{< baseurl >}}/pages/projects/nextmap)
 
 
 {{< tdclose >}}

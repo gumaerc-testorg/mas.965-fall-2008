@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'M-commerce Mobile Commerce:  Milestone Presentations'
 uid: c973d5e7-7b5f-e621-2afa-a72217624c50
@@ -42,7 +46,7 @@ Milestone 4: Sustainability
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed06) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed08)
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed06) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed08)
 
 
 {{< tdclose >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Lecture Videos
+parent_type: CourseSection
 parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 title: 'Session 4: Student-led discussions'
 uid: 277d5646-a13e-6dee-89d6-4f5b371ec925
@@ -45,4 +49,4 @@ Slides ([PDF - 2.0 MB]({{< baseurl >}}/resources/mitmas_965f08_lec04_mg)) (Court
 
 This video is no longer available.
 
-[< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)

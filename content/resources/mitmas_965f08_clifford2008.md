@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the information regarding medical information
   systems: A foundation for healthcare technologies in developing countries.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/9534f9ab5d5a11e6b93ba519b0f6ccd4_MITMAS_965F08_clifford2008.pdf
+file: /media/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/9534f9ab5d5a11e6b93ba519b0f6ccd4_MITMAS_965F08_clifford2008.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Medical Information Systems: A foundation for healthcare technologies in developing
   countries'

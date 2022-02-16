@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Lecture Videos
+parent_type: CourseSection
 parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 title: 'Session 12: Student-led discussions'
 uid: 8f8fc9ed-4a0d-8898-56b8-5646d768fc55
@@ -55,4 +59,4 @@ Sessions: [12.0]({{< baseurl >}}/pages/lecture-videos/embed12) | [12.1]({{< base
 
 This video was produced and provided by [Nicole Prowell](http://vimeo.com/user658548) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'NextMap Disaster Management: Demonstrations'
 uid: cb84bd19-8cb8-5d03-a310-8e7780066505
@@ -38,7 +42,7 @@ Catholic Relief Services — disaster assessment
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/nextmapembed01) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed03)
+[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed01) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed03)
 
 
 {{< tdclose >}}

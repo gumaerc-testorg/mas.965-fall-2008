@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'NextMap Disaster Management:  Demonstrations'
 uid: 935f57ad-ca9a-cf82-5a57-fcc96a7cb984
@@ -38,7 +42,7 @@ InnovGreen - NextMap
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/nextmapembed02) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed04)
+[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed02) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed04)
 
 
 {{< tdclose >}}

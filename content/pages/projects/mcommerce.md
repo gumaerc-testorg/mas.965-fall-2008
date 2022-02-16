@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: M-commerce Mobile Commerce
 uid: 24005ec1-d818-30d8-fb37-63b7b50e81b6
@@ -174,4 +178,4 @@ Milestone 4: Sustainability
 
 {{< tableclose >}}
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+[\< back to project index]({{< baseurl >}}/pages/projects)

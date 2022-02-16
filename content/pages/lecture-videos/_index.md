@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos
 uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 ---

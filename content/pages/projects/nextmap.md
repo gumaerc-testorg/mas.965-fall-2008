@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: NextMap Disaster Management
 uid: 4a2d649b-f7aa-7691-6f23-275d621a0437
@@ -199,4 +203,4 @@ Other Materials
 
 [Compiled status entries]({{< baseurl >}}/pages/projects/nextmap4) from "News" section of project blog
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+[\< back to project index]({{< baseurl >}}/pages/projects)

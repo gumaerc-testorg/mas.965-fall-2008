@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding design studies for a
   financial management system for micro-credit groups in rural India.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/b556d0704e41dbdfc0ee596a1f1f5829_MITMAS_965F08_Lec12_pp.pdf
+file: /media/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/b556d0704e41dbdfc0ee596a1f1f5829_MITMAS_965F08_Lec12_pp.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Lecture Videos
+parent_type: CourseSection
 resourcetype: Document
 title: Design studies for a financial management system for micro-credit groups in
   rural India

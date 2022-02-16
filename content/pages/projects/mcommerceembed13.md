@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'M-commerce Mobile Commerce:  Project Episode Videos'
 uid: fb0f8f8a-3af9-371e-60af-3ea20f54cb35
@@ -42,7 +46,7 @@ Episode 6: Clarity!
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed12) | [project home]({{< baseurl >}}/pages/projects/mcommerce)
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed12) | [project home]({{< baseurl >}}/pages/projects/mcommerce)
 
 
 {{< tdclose >}}

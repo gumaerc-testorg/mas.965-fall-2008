@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'M-commerce Mobile Commerce:  Milestone Presentations'
 uid: b68285ee-bb7c-9a2b-cd04-9c651c0c5e2f
@@ -42,7 +46,7 @@ Milestone 1: Elevator Pitch
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed03) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed05)
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed03) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed05)
 
 
 {{< tdclose >}}

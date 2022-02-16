@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: The Fellows Forum
 uid: f9d609ed-160f-e494-47b3-0036cedaddb8
@@ -175,4 +179,4 @@ Milestone 4: Sustainability
 
 {{< tableclose >}}
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+[\< back to project index]({{< baseurl >}}/pages/projects)

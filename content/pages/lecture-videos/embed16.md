@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Lecture Videos
+parent_type: CourseSection
 parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 title: 'Session 16: Student-led discussions'
 uid: 1f371c5f-79dc-e6c8-a1df-284f69f16ddb
@@ -55,4 +59,4 @@ Sessions: 16.0 | [16.1]({{< baseurl >}}/pages/lecture-videos/embed16_01)
 
 This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)

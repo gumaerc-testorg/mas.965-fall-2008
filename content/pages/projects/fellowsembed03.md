@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'The Fellows Forum: Final Class Presentation'
 uid: d0723328-fbbc-a543-1b02-fccaa39f081c
@@ -38,7 +42,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/fellowsembed02) | [project home]({{< baseurl >}}/pages/projects/fellows) | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed04)
+[\< previous project page]({{< baseurl >}}/pages/projects/fellowsembed02) | [project home]({{< baseurl >}}/pages/projects/fellows) | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed04)
 
 
 {{< tdclose >}}

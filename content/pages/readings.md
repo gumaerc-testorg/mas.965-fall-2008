@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2c9b7772-d100-17e6-4d98-a3b676bffc0f
 ---
@@ -34,7 +37,7 @@ DISCUSSIONS
 {{< tdopen >}}
 Donner, Jonathan, et al. "Stages of Design in Technology for Global Development." _IEEE Computer_ 41, no. 6 (2008): 34-41.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Videos and slides]({{< baseurl >}}/pages/lecture-videos/embed04)
 {{< tdclose >}}
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'MoCa:  Project Episode Videos'
 uid: 383c62a0-a79f-c34f-1b1b-d9348dbf7b47
@@ -38,7 +42,7 @@ Episode 4
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/mocaembed09) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed11)
+[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed09) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed11)
 
 
 {{< tdclose >}}

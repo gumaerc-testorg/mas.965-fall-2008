@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: Compiled Status Entries
 uid: 3fa7c88e-dee3-e4eb-ffaa-7af6ca47f933
@@ -18,7 +22,7 @@ Next we're looking to solve outgoing message problems and to allow users to ente
 
 Geocoding of the textual address is done via GeoKit ([https://github.com/glebm/geokit-gem](https://github.com/glebm/geokit-gem)), a Ruby on Rails geocoding plugin. The prototype itself is made in Ruby on Rails and uses the Google Maps API.
 
-[< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
 
 **Interface Snapshot**  
 October 21, 2008
@@ -30,7 +34,7 @@ Thinking about interfaces for viewing data in an interactive map - beyond Google
 
 See [video of this interface in action](http://www.flickr.com/photos/jeffreywarren/2963528378/) \[Flickr, 0:21\]
 
-[< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
 
 **InnovGreen: Q&A**  
 October 22nd, 2008
@@ -87,7 +91,7 @@ _Project Timeline_
 > 12/03: Working demo  
 > 12/10: Final presentation
 
-[< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
 
 **Design Tradeoffs**  
 November 17th, 2008
@@ -112,7 +116,7 @@ In the end, I would like to implement some hybrid compression model that perhaps
 
 More info on solving these problems to come soon!
 
-[< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
 
 **Nextlab Disaster Management teams up with OpenROSA**  
 December 25th, 2008
@@ -128,4 +132,4 @@ Happy holidays to everyone, and lets keep giving the gift of technology to those
 For more information on OpenRosa and the JavaRosa code base, please check out:  
 [http://www.openrosa.org](https://bitbucket.org/javarosa/javarosa/wiki/OpenRosaAPI)
 
-[< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)

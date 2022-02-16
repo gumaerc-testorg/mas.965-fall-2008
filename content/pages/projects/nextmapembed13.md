@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'NextMap Disaster Management: Project Episode Videos'
 uid: 9632782f-763a-869e-df2a-abf4d8e52e0d
@@ -38,7 +42,7 @@ Episode 5: "A Coding Session"
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/nextmapembed12) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed14)
+[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed12) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed14)
 
 
 {{< tdclose >}}

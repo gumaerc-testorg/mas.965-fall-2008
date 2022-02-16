@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'The Fellows Forum: Milestone Presentations'
 uid: 937fe6d1-9e07-5f0e-495d-2f9008722407
@@ -38,7 +42,7 @@ Milestone 2: Needs Assessment
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/fellowsembed04) | [project home]({{< baseurl >}}/pages/projects/fellows) | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed06)
+[\< previous project page]({{< baseurl >}}/pages/projects/fellowsembed04) | [project home]({{< baseurl >}}/pages/projects/fellows) | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed06)
 
 
 {{< tdclose >}}

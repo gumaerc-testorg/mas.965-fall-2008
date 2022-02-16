@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'MoCa: Milestone Presentations'
 uid: 57de53e0-0958-4806-4526-b73431a0f7f9
@@ -38,7 +42,7 @@ Milestone 3: System Design and Initial Implementation
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/mocaembed05) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed07)
+[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed05) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed07)
 
 
 {{< tdclose >}}

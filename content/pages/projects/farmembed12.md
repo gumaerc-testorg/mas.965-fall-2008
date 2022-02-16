@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'Giving Farmers a Fighting Chance: Project Episode Videos'
 uid: cb9c9c83-d9ba-9abc-98c8-941e1648962f
@@ -42,7 +46,7 @@ Episode 6: Building the Prototype
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/farmembed11) | [project home]({{< baseurl >}}/pages/projects/farm)
+[\< previous project page]({{< baseurl >}}/pages/projects/farmembed11) | [project home]({{< baseurl >}}/pages/projects/farm)
 
 
 {{< tdclose >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'Get New Money:  Milestone Presentations'
 uid: 1e982775-0aac-39ac-bc0d-d43285a07952
@@ -42,7 +46,7 @@ Milestone 3: System Design and Initial Implementation
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/moneyembed05) | [project home]({{< baseurl >}}/pages/projects/getnewmoney) | [next project page >]({{< baseurl >}}/pages/projects/moneyembed07)
+[\< previous project page]({{< baseurl >}}/pages/projects/moneyembed05) | [project home]({{< baseurl >}}/pages/projects/getnewmoney) | [next project page >]({{< baseurl >}}/pages/projects/moneyembed07)
 
 
 {{< tdclose >}}

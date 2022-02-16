@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'NextMap Disaster Management:  Demonstrations'
 uid: 11d7e856-e257-2cb5-e51a-1dde8786b400
@@ -38,7 +42,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/nextmapembed03) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed05)
+[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed03) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed05)
 
 
 {{< tdclose >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Lecture Videos
+parent_type: CourseSection
 parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 title: 'Session 19: Student-led discussions'
 uid: 14bc2141-80d7-d29a-217b-b4ae920d03e2
@@ -55,4 +59,4 @@ Sessions: [19.0]({{< baseurl >}}/pages/lecture-videos/embed19) | 19.1 | [19.2]({
 
 This video was produced and provided by [Julianne Palazzo](http://vimeo.com/user722244) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'Giving Farmers a Fighting Chance: Summary'
 uid: 47e4e788-c6de-2754-5ded-29a602f1f171

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'NextMap Disaster Management: Project Episode Videos'
 uid: f8d811cb-a30f-d1ff-7b90-efa615fceddd
@@ -38,7 +42,7 @@ Episode 2: "Addressing the needs of CRS"
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/nextmapembed09) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed11)
+[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed09) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed11)
 
 
 {{< tdclose >}}

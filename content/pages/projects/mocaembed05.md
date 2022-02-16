@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'MoCa: Milestone Presentations'
 uid: 0a7d9a01-dc5f-b725-a257-e2133cc6fa41
@@ -38,7 +42,7 @@ Milestone 2: Needs Assessment
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/mocaembed04) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed06)
+[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed04) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed06)
 
 
 {{< tdclose >}}

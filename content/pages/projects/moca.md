@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'MoCa: Mobile Diagnostics'
 uid: f456e17f-d352-fd77-73a1-7a0ae12d14c4
@@ -191,4 +195,4 @@ Milestone 4: Sustainability
 **Other Materials**  
 [Compiled status updates]({{< baseurl >}}/pages/projects/moca5) from "News" section of project blog
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+[\< back to project index]({{< baseurl >}}/pages/projects)

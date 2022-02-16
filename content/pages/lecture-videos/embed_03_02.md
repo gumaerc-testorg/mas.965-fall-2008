@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Lecture Videos
+parent_type: CourseSection
 parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 title: Team Formation
 uid: a8354599-17f4-8cba-ed25-2029641827d2
@@ -24,4 +28,4 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec03_team))
 
 This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)

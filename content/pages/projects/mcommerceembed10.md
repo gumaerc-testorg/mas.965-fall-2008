@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'M-commerce Mobile Commerce:  Project Episode Videos'
 uid: f609eefc-bdd6-8912-29a3-1e191493d0fc
@@ -42,7 +46,7 @@ Episode 3: Logistics
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed09) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed11)
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed09) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed11)
 
 
 {{< tdclose >}}

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding the Emerging Role of
   Cellphones;Resource-friendly healthcare.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/6f9ee30a0d5108d765b2c227bac84b2a_MITMAS_965F08_Lec14_gari.pdf
+file: /media/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/6f9ee30a0d5108d765b2c227bac84b2a_MITMAS_965F08_Lec14_gari.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Lecture Videos
+parent_type: CourseSection
 resourcetype: Document
 title: The Emerging Role of Cellphones;Resource-friendly healthcare
 uid: 6f9ee30a-0d51-08d7-65b2-c227bac84b2a

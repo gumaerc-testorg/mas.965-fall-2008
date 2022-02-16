@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: Thrive in 5 Baby Blog
 uid: f4479433-ca95-d04f-f63d-9b843eef93ba
@@ -140,4 +144,4 @@ VIDEOS AND SLIDES
 
 {{< tableclose >}}
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+[\< back to project index]({{< baseurl >}}/pages/projects)

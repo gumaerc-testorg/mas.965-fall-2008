@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Lecture Videos
+parent_type: CourseSection
 parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 title: 'Session 12: Student-led discussions'
 uid: cd62710e-b01f-20a3-fc32-05326b919f3a
@@ -51,4 +55,4 @@ Sessions: 12.0 | [12.1]({{< baseurl >}}/pages/lecture-videos/embed12_02) | [12.2
 
 {{< tableclose >}}
 
-[< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)

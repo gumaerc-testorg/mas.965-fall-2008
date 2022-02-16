@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'Giving Farmers a Fighting Chance: Final Class Presentation'
 uid: 4d9ee528-90a4-714c-babf-22f25cac04c0
@@ -42,7 +46,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[< previous project page]({{< baseurl >}}/pages/projects/farmembed02) | [project home]({{< baseurl >}}/pages/projects/farm) | [next project page >]({{< baseurl >}}/pages/projects/farmembed04)
+[\< previous project page]({{< baseurl >}}/pages/projects/farmembed02) | [project home]({{< baseurl >}}/pages/projects/farm) | [next project page >]({{< baseurl >}}/pages/projects/farmembed04)
 
 
 {{< tdclose >}}

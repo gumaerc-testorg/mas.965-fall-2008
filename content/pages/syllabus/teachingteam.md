@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: a90f6041-1e39-366d-1c03-0da5bdb92065
 title: Teaching Team
 uid: 4ff4cf3a-43f9-4b72-474c-7bc47f2586e2
