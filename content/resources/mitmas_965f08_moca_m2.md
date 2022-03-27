@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: 'MILESTONE 2: NEEDS ASSESSMENT'
 uid: 401916f2-6f6b-ad9d-f158-a19753307ad1

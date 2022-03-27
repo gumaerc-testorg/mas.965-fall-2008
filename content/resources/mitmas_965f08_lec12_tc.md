@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 resourcetype: Document
 title: Text-Free User Interfaces for Illiterate and Semiliterate Users
 uid: 3020f07b-96b7-9f1b-b733-6b910dbf3bf9

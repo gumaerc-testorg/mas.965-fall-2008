@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: "United Villages: M\u2010CommerceSolutions"
 uid: 512cb363-0f89-a053-8f4a-569f49672a3a

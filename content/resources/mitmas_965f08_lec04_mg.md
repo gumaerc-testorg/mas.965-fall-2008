@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 resourcetype: Document
 title: Reading Discussions
 uid: d9ea9a0e-935b-53b3-cc57-53d071227c97

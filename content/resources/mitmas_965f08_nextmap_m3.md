@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: Nxtmap System Architecture Milestone
 uid: e1bab973-871d-6b02-0d7f-6fb0b302f534

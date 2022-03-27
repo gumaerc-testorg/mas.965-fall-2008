@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 resourcetype: Document
 title: Project Proposals
 uid: a208f07a-6f81-50e9-7a37-890c2575bf52

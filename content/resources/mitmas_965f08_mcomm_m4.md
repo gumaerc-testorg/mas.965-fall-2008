@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: "UVM\u2010CommerceInterface Sustainabilty"
 uid: be654cf2-54c4-617d-7a42-0b0634787da5

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2c9b7772-d100-17e6-4d98-a3b676bffc0f
 resourcetype: Document
 title: 'Research Article: Speech Interfaces for Equitable Access to Information Technology'
 uid: ad3eaaa1-0b4e-c09f-f3ff-0e97d9bea8ba

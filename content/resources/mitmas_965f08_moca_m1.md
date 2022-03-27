@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: ' Milestone1: Elevator Pitch & Background Research'
 uid: 3d6328c6-678c-458c-117e-ee946a62ce2f

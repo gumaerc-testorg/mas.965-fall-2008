@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: "United Villages \u2013 Mobile Interface "
 uid: 3bf5726a-19d0-6be5-67ea-30604bc28b84

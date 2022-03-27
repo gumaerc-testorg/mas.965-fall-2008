@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: Enhanced Cellphone-based Multi-level Marketing for Microfinance
 uid: 5553beef-8714-c68e-d1c8-e66cef24ca08

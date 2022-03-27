@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: 'Telmex Connect Milestone #2'
 uid: 28d2dcf1-d8fa-96bf-0705-7bcc649a28f7

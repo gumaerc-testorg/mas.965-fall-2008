@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: Multi-level Marketing for Microfinance (Milestone 4 -Sustainability)
 uid: 4a2d006b-d5b3-48af-2819-d6ea90690d27

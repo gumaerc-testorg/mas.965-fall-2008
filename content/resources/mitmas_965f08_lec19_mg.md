@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 resourcetype: Document
 title: 'Worms: Education and Health Externalities in Kenya'
 uid: d3145e56-a0d5-bb6a-d9b1-bccc6a702b28

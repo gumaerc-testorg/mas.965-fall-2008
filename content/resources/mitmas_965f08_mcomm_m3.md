@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: "UV M\u2010Commerce Interface System Design"
 uid: fa4ab6c9-b6bd-5f63-1ffc-928b7777c728

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 resourcetype: Document
 title: The Emerging Role of Cellphones;Resource-friendly healthcare
 uid: 6f9ee30a-0d51-08d7-65b2-c227bac84b2a

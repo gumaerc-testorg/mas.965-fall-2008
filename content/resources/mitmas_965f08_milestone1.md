@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: Elevator Pitch and Related Work
 uid: 7fd48b3e-c8dc-7dba-0f94-3a198dbe4e07

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: 'BabyBlog: Sustainability'
 uid: 85172e2d-a85d-42d9-a071-4750a21f6ce2

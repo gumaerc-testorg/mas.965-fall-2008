@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Document
 title: 'Mobile care: scalable imaging and diagnosis for the developing world'
 uid: e4620fe2-026a-848e-630d-50b838b7e340

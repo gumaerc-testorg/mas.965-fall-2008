@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2c9b7772-d100-17e6-4d98-a3b676bffc0f
 resourcetype: Document
 title: 'Research Article: Text-Free User Interfaces for Illiterate and Semiliterate
   Users'
