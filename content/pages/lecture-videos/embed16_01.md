@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Plauché and Nallasamy. "Speech interfaces for equitable access to information t
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec16_ad)) (Courtesy of Anastasios Dimas. Used with permission.)
+Slides ({{% resource_link b46919f7-f6ae-414a-4bef-cfbe6dbe1e93 "PDF" %}}) (Courtesy of Anastasios Dimas. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec16_ad)) (Courtesy of An
 {{< tdopen >}}
 
 
-Sessions: [16.0]({{< baseurl >}}/pages/lecture-videos/embed16) | 16.1
+Sessions: {{% resource_link 1f371c5f-79dc-e6c8-a1df-284f69f16ddb "16.0" %}} | 16.1
 
 
 {{< tdclose >}}
@@ -57,4 +58,4 @@ Sessions: [16.0]({{< baseurl >}}/pages/lecture-videos/embed16) | 16.1
 
 This video is no longer available.
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

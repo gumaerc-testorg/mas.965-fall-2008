@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Episode 6: Building the Prototype
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/farmembed11) | [project home]({{< baseurl >}}/pages/projects/farm)
+[\< previous project page]({{< baseurl >}}/pages/projects/farmembed11) | {{% resource_link fcf4e5d3-429e-556d-e543-bd11a85a57b5 "project home" %}}
 
 
 {{< tdclose >}}

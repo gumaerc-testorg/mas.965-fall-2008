@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -32,7 +33,7 @@ Milestone 3: System Design and Initial Implementation
 
 
 **Resources:  
-**Slides ([PDF - 1.1MB]({{< baseurl >}}/resources/mitmas_965f08_moca_m3))
+**Slides ({{% resource_link f492d97d-2ff1-47d8-a47f-b1f14e3d4215 "PDF - 1.1MB" %}})
 
 
 {{< tdclose >}}
@@ -42,7 +43,7 @@ Milestone 3: System Design and Initial Implementation
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed05) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed07)
+{{% resource_link "0a7d9a01-dc5f-b725-a257-e2133cc6fa41" "« previous project page" %}} | {{% resource_link f456e17f-d352-fd77-73a1-7a0ae12d14c4 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/mocaembed07)
 
 
 {{< tdclose >}}

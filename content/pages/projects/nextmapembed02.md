@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ Catholic Relief Services — disaster assessment
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed01) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed03)
+{{% resource_link "af5d9aa1-20f8-a35b-ca15-c55ffa6534e3" "« previous project page" %}} | {{% resource_link 4a2d649b-f7aa-7691-6f23-275d621a0437 "project home" %}} | {{% resource_link 935f57ad-ca9a-cf82-5a57-fcc96a7cb984 "next project page >" %}}
 
 
 {{< tdclose >}}

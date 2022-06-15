@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ InnovGreen - NextMap
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed02) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed04)
+{{% resource_link "cb84bd19-8cb8-5d03-a310-8e7780066505" "« previous project page" %}} | {{% resource_link 4a2d649b-f7aa-7691-6f23-275d621a0437 "project home" %}} | {{% resource_link 11d7e856-e257-2cb5-e51a-1dde8786b400 "next project page >" %}}
 
 
 {{< tdclose >}}

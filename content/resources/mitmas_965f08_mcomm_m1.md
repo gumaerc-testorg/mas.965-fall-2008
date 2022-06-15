@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding United Villages \u2013\
   \ Mobile Interface."
-file: /media/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/3bf5726a19d06be567ea30604bc28b84_MITMAS_965F08_mcomm_m1.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/3bf5726a19d06be567ea30604bc28b84_MITMAS_965F08_mcomm_m1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Document
 title: "United Villages \u2013 Mobile Interface "
 uid: 3bf5726a-19d0-6be5-67ea-30604bc28b84
 ---
+This resource contains the information regarding United Villages – Mobile Interface.
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ Episode 5: "A Coding Session"
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed12) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed14)
+[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed12) | {{% resource_link 4a2d649b-f7aa-7691-6f23-275d621a0437 "project home" %}} | {{% resource_link e1de3512-4c66-8672-610d-3990db8ba87b "next project page >" %}}
 
 
 {{< tdclose >}}

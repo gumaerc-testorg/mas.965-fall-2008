@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Final Class Presentation
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_final))
+**Slides ({{% resource_link 512cb363-0f89-a053-8f4a-569f49672a3a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed02) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed04)
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed02) | {{% resource_link 24005ec1-d818-30d8-fb37-63b7b50e81b6 "project home" %}} | {{% resource_link b68285ee-bb7c-9a2b-cd04-9c651c0c5e2f "next project page >" %}}
 
 
 {{< tdclose >}}

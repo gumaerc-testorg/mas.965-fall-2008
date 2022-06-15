@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Milestone 1: Elevator Pitch
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_m1))
+**Slides ({{% resource_link 3bf5726a-19d0-6be5-67ea-30604bc28b84 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Milestone 1: Elevator Pitch
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed03) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed05)
+{{% resource_link "5257bb26-2def-079e-34e0-9bcc1b200801" "« previous project page" %}} | {{% resource_link 24005ec1-d818-30d8-fb37-63b7b50e81b6 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed05)
 
 
 {{< tdclose >}}

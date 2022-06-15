@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -98,7 +99,7 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Summary]({{< baseurl >}}/pages/projects/farmembed01)
+{{% resource_link 47e4e788-c6de-2754-5ded-29a602f1f171 "Summary" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +111,7 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final Class Presentation]({{< baseurl >}}/pages/projects/farmembed03)
+{{% resource_link 4d9ee528-90a4-714c-babf-22f25cac04c0 "Final Class Presentation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,13 +129,13 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Milestone 2: Needs Assessment]({{< baseurl >}}/pages/projects/farmembed05)
+{{% resource_link 25b5dbbc-8dda-6260-11c1-27a3c7df6d05 "Milestone 2: Needs Assessment" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Milestone 3:  System Design and Initial Implementation]({{< baseurl >}}/pages/projects/farmembed06)
+{{% resource_link efd30e04-b66f-50ac-898c-ac8ff274c974 "Milestone 3:  System Design and Initial Implementation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,11 +177,11 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Episode 6: Building the Prototype]({{< baseurl >}}/pages/projects/farmembed12)
+{{% resource_link cb9c9c83-d9ba-9abc-98c8-941e1648962f "Episode 6: Building the Prototype" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-[\< back to project index]({{< baseurl >}}/pages/projects)
+{{% resource_link "7b53ea3b-401e-0767-1816-c31fc0eee770" "« back to project index" %}}

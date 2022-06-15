@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -92,7 +93,7 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Summary]({{< baseurl >}}/pages/projects/nextmapembed01)
+{{% resource_link af5d9aa1-20f8-a35b-ca15-c55ffa6534e3 "Summary" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,19 +105,19 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Catholic Relief Services – disaster assessment]({{< baseurl >}}/pages/projects/nextmapembed02)
+{{% resource_link cb84bd19-8cb8-5d03-a310-8e7780066505 "Catholic Relief Services – disaster assessment" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[InnovGreen - NextMap]({{< baseurl >}}/pages/projects/nextmapembed03)
+{{% resource_link 935f57ad-ca9a-cf82-5a57-fcc96a7cb984 "InnovGreen - NextMap" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final Class Presentation]({{< baseurl >}}/pages/projects/nextmapembed04)
+{{% resource_link 11d7e856-e257-2cb5-e51a-1dde8786b400 "Final Class Presentation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +135,7 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Milestone 2: Needs Assessment]({{< baseurl >}}/pages/projects/nextmapembed06)
+{{% resource_link 52de9871-6c79-5daa-8409-d018b100c1c3 "Milestone 2: Needs Assessment" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +165,7 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Episode 2: "Addressing the needs of CRS"]({{< baseurl >}}/pages/projects/nextmapembed10)
+{{% resource_link f8d811cb-a30f-d1ff-7b90-efa615fceddd "Episode 2: \"Addressing the needs of CRS\"" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,13 +183,13 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Episode 5: "A Coding Session"]({{< baseurl >}}/pages/projects/nextmapembed13)
+{{% resource_link 9632782f-763a-869e-df2a-abf4d8e52e0d "Episode 5: \"A Coding Session\"" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Episode 6]({{< baseurl >}}/pages/projects/nextmapembed14)
+{{% resource_link e1de3512-4c66-8672-610d-3990db8ba87b "Episode 6" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,6 +202,6 @@ VIDEOS AND SLIDES
 Other Materials
 ---------------
 
-[Compiled status entries]({{< baseurl >}}/pages/projects/nextmap4) from "News" section of project blog
+{{% resource_link 3fa7c88e-dee3-e4eb-ffaa-7af6ca47f933 "Compiled status entries" %}} from "News" section of project blog
 
-[\< back to project index]({{< baseurl >}}/pages/projects)
+{{% resource_link "7b53ea3b-401e-0767-1816-c31fc0eee770" "« back to project index" %}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Szot et al. "Diagnostic Accuracy of Chest X-rays Using a Digital Camera for Low-
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec16_ja)) (Courtesy of anonymous MIT student. Used with permission.)
+Slides ({{% resource_link 9046f54e-fd8d-e0e4-1d27-c689cfd1d70f "PDF" %}}) (Courtesy of anonymous MIT student. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec16_ja)) (Courtesy of an
 {{< tdopen >}}
 
 
-Sessions: 16.0 | [16.1]({{< baseurl >}}/pages/lecture-videos/embed16_01)
+Sessions: 16.0 | {{% resource_link 88ba5496-fadf-0d7e-7582-5c47631073ce "16.1" %}}
 
 
 {{< tdclose >}}
@@ -59,4 +60,4 @@ Sessions: 16.0 | [16.1]({{< baseurl >}}/pages/lecture-videos/embed16_01)
 
 This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

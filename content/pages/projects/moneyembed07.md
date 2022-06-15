@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Milestone 4: Sustainability
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m4))
+**Slides ({{% resource_link 4a2d006b-d5b3-48af-2819-d6ea90690d27 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Milestone 4: Sustainability
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/moneyembed06) | [project home]({{< baseurl >}}/pages/projects/getnewmoney)
+{{% resource_link "1e982775-0aac-39ac-bc0d-d43285a07952" "« previous project page" %}} | {{% resource_link 2b06f271-7ef9-f21f-0ffd-26f30cf8c4ad "project home" %}}
 
 
 {{< tdclose >}}

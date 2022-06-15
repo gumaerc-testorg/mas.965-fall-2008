@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ Demonstration
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/fellowsembed01) | [project home]({{< baseurl >}}/pages/projects/fellows) | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed03)
+[\< previous project page]({{< baseurl >}}/pages/projects/fellowsembed01) | {{% resource_link f9d609ed-160f-e494-47b3-0036cedaddb8 "project home" %}} | {{% resource_link d0723328-fbbc-a543-1b02-fccaa39f081c "next project page >" %}}
 
 
 {{< tdclose >}}

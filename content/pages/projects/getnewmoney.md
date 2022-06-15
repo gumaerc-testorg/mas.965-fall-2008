@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -130,8 +131,7 @@ Final Class Presentation
 [Get New Money Final Presentation](https://vimeo.com/3145303) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
 
   
-[PDF  
-]({{< baseurl >}}/resources/mitmas_965f08_money_final)
+{{% resource_link "ecbe4e1d-59f7-85f7-9d59-e52de0f0cf07" "PDF   " %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +146,7 @@ Final Class Presentation
 Milestone 1: Elevator Pitch
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m1)
+{{% resource_link 5553beef-8714-c68e-d1c8-e66cef24ca08 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +155,7 @@ Milestone 1: Elevator Pitch
 Milestone 2: Needs Assessment
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m2)
+{{% resource_link fcd28fae-50e3-bd6e-4ce3-d3911bbe4a1b "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +164,7 @@ Milestone 2: Needs Assessment
 Milestone 3: System Design and Initial Implementation
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m3)
+{{% resource_link 70ef5062-f104-54f7-ba8b-f1e0a5b4a0a4 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,11 +178,11 @@ Milestone 4: Sustainability
 [Get New Money Milestone 4/Sustainability Plan](https://vimeo.com/3187230) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
 
   
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m4)
+{{% resource_link 4a2d006b-d5b3-48af-2819-d6ea90690d27 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-[\< back to project index]({{< baseurl >}}/pages/projects)
+{{% resource_link "7b53ea3b-401e-0767-1816-c31fc0eee770" "« back to project index" %}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -138,7 +139,7 @@ Final Class Presentation
 [Moca Final Presentation](https://vimeo.com/3079296) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
 
   
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_moca_final)
+{{% resource_link e4620fe2-026a-848e-630d-50b838b7e340 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +154,7 @@ Final Class Presentation
 Milestone 1: Elevator Pitch
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_moca_m1)
+{{% resource_link 3d6328c6-678c-458c-117e-ee946a62ce2f "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +163,7 @@ Milestone 1: Elevator Pitch
 Milestone 2: Needs Assessment
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_moca_m2)
+{{% resource_link 401916f2-6f6b-ad9d-f158-a19753307ad1 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +177,7 @@ Milestone 3:  System Design and Initial Implementation
 [Mobile Diagnostics Milestone 3: Initial Implementation Result](https://vimeo.com/3174236) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
 
   
-[PDF 1.1MB]({{< baseurl >}}/resources/mitmas_965f08_moca_m3)
+{{% resource_link f492d97d-2ff1-47d8-a47f-b1f14e3d4215 "PDF 1.1MB" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +186,7 @@ Milestone 3:  System Design and Initial Implementation
 Milestone 4: Sustainability
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_moca_m4)
+{{% resource_link 9948aaec-7e6d-421d-0522-9b2f46eb3713 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,6 +194,6 @@ Milestone 4: Sustainability
 {{< tableclose >}}
 
 **Other Materials**  
-[Compiled status updates]({{< baseurl >}}/pages/projects/moca5) from "News" section of project blog
+{{% resource_link fcf14489-aefb-e76a-3cc5-4180ba2cef6a "Compiled status updates" %}} from "News" section of project blog
 
-[\< back to project index]({{< baseurl >}}/pages/projects)
+{{% resource_link "7b53ea3b-401e-0767-1816-c31fc0eee770" "« back to project index" %}}

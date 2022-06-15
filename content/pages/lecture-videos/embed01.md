@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -15,7 +16,7 @@ uid: 1a37e7dd-b4a8-f89b-8061-6c4305bdba8d
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec1_intro))
+Slides ({{% resource_link 1e1d4986-4348-db8e-c1f2-f1b613460b17 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -28,4 +29,4 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec1_intro))
 
 This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

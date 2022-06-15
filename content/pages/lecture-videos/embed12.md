@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Parishk et al. "Design studies for a financial management system for micro-credi
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec12_pp)) (Courtesy of anonymous MIT student. Used with permission.)
+Slides ({{% resource_link b556d070-4e41-dbdf-c0ee-596a1f1f5829 "PDF" %}}) (Courtesy of anonymous MIT student. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec12_pp)) (Courtesy of an
 {{< tdopen >}}
 
 
-Sessions: 12.0 | [12.1]({{< baseurl >}}/pages/lecture-videos/embed12_02) | [12.2]({{< baseurl >}}/pages/lecture-videos/embed12_03) | [12.3]({{< baseurl >}}/pages/lecture-videos/embed12_04)
+Sessions: 12.0 | {{% resource_link 94bba97f-56fd-5488-0c07-6e0bb19d1bae "12.1" %}} | {{% resource_link 8f8fc9ed-4a0d-8898-56b8-5646d768fc55 "12.2" %}} | {{% resource_link 188838a0-35f2-ebe5-ee1a-ad6061f9af78 "12.3" %}}
 
 
 {{< tdclose >}}
@@ -55,4 +56,4 @@ Sessions: 12.0 | [12.1]({{< baseurl >}}/pages/lecture-videos/embed12_02) | [12.2
 
 {{< tableclose >}}
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

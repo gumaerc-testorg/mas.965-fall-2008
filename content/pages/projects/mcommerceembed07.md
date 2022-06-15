@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Milestone 4: Sustainability
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_m4))
+**Slides ({{% resource_link be654cf2-54c4-617d-7a42-0b0634787da5 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Milestone 4: Sustainability
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed06) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed08)
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed06) | {{% resource_link 24005ec1-d818-30d8-fb37-63b7b50e81b6 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed08)
 
 
 {{< tdclose >}}

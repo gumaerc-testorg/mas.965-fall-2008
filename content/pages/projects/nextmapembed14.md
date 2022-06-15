@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ Episode 6
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed13) | [project home]({{< baseurl >}}/pages/projects/nextmap)
+{{% resource_link "9632782f-763a-869e-df2a-abf4d8e52e0d" "« previous project page" %}} | {{% resource_link 4a2d649b-f7aa-7691-6f23-275d621a0437 "project home" %}}
 
 
 {{< tdclose >}}

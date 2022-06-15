@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Summary
 {{< tdopen >}}
 
 
-[project home]({{< baseurl >}}/pages/projects/getnewmoney) | [next project page >]({{< baseurl >}}/pages/projects/moneyembed02)
+{{% resource_link 2b06f271-7ef9-f21f-0ffd-26f30cf8c4ad "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/moneyembed02)
 
 
 {{< tdclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ Milestone 2: Needs Assessment Part 1
 {{< tdopen >}}
 
 
-[\< previous lecture]({{< baseurl >}}/pages/projects/thriveembed04) | [project home]({{< baseurl >}}/pages/projects/thrive5) | [next lecture >]({{< baseurl >}}/pages/projects/thriveembed06)
+{{% resource_link "9e39152a-8e50-d566-e90c-b334f77b2698" "« previous lecture" %}} | {{% resource_link f4479433-ca95-d04f-f63d-9b843eef93ba "project home" %}} | [next lecture >]({{< baseurl >}}/pages/projects/thriveembed06)
 
 
 {{< tdclose >}}

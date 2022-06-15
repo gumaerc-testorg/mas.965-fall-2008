@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -32,7 +33,7 @@ Final Class Presentation
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_final))
+**Slides ({{% resource_link 4d1eba74-b42b-c44e-f72f-0c2c7f7bffdc "PDF" %}})
 
 
 {{< tdclose >}}
@@ -42,7 +43,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/fellowsembed02) | [project home]({{< baseurl >}}/pages/projects/fellows) | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed04)
+{{% resource_link "9e78ec91-0a9a-9e7a-cae0-3032be191d85" "« previous project page" %}} | {{% resource_link f9d609ed-160f-e494-47b3-0036cedaddb8 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed04)
 
 
 {{< tdclose >}}

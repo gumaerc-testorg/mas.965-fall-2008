@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -113,13 +114,13 @@ VIDEOS AND SLIDES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Milestone 1: Elevator Pitch]({{< baseurl >}}/pages/projects/thriveembed04)
+{{% resource_link 9e39152a-8e50-d566-e90c-b334f77b2698 "Milestone 1: Elevator Pitch" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Milestone 2: Needs Assessment Part 1]({{< baseurl >}}/pages/projects/thriveembed05)
+{{% resource_link 24bfb6ec-d319-3384-f5a3-0a141d9337b9 "Milestone 2: Needs Assessment Part 1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,4 +145,4 @@ VIDEOS AND SLIDES
 
 {{< tableclose >}}
 
-[\< back to project index]({{< baseurl >}}/pages/projects)
+{{% resource_link "7b53ea3b-401e-0767-1816-c31fc0eee770" "« back to project index" %}}

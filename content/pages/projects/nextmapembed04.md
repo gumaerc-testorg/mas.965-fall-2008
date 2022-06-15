@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -32,7 +33,7 @@ Final Class Presentation
 
 
 **Resources:  
-**Slides ([PDF - 1.6 MB]({{< baseurl >}}/resources/mitmas_965f08_nextmap_final))
+**Slides ({{% resource_link 52cf84d1-9c07-5570-1999-dc7a06d18455 "PDF - 1.6 MB" %}})
 
 
 {{< tdclose >}}
@@ -42,7 +43,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed03) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed05)
+{{% resource_link "935f57ad-ca9a-cf82-5a57-fcc96a7cb984" "« previous project page" %}} | {{% resource_link 4a2d649b-f7aa-7691-6f23-275d621a0437 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed05)
 
 
 {{< tdclose >}}

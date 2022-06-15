@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Milestone 2: Needs Assessment
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_farmers_m2))
+**Slides ({{% resource_link 4b0ee5c8-c3e4-636b-024a-b504c4553f92 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Milestone 2: Needs Assessment
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/farmembed04) | [project home]({{< baseurl >}}/pages/projects/farm) | [next project page >]({{< baseurl >}}/pages/projects/farmembed06)
+[\< previous project page]({{< baseurl >}}/pages/projects/farmembed04) | {{% resource_link fcf4e5d3-429e-556d-e543-bd11a85a57b5 "project home" %}} | {{% resource_link efd30e04-b66f-50ac-898c-ac8ff274c974 "next project page >" %}}
 
 
 {{< tdclose >}}

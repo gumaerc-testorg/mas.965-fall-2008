@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Jensen. "The Digital Provide: Information (Technology), Market Performance, and 
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec05_ps)) (Courtesy of anonymous MIT student. Used with permission)
+Slides ({{% resource_link 251d27fe-6b61-e3e5-b976-87e8c30080f8 "PDF" %}}) (Courtesy of anonymous MIT student. Used with permission)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec05_ps)) (Courtesy of an
 {{< tdopen >}}
 
 
-Sessions: [5.0]({{< baseurl >}}/pages/lecture-videos/embed05) | 5.1
+Sessions: {{% resource_link a6445414-82ea-382e-ec04-d29382bac86e "5.0" %}} | 5.1
 
 
 {{< tdclose >}}
@@ -59,4 +60,4 @@ Sessions: [5.0]({{< baseurl >}}/pages/lecture-videos/embed05) | 5.1
 
 This video was produced and provided by [Josh Kirchmer](http://vimeo.com/user721639) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

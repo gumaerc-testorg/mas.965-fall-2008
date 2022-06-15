@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Final Class Presentation
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_farmers_final))
+**Slides ({{% resource_link 9c48e643-db91-ab3f-f923-f369e007a39b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/farmembed02) | [project home]({{< baseurl >}}/pages/projects/farm) | [next project page >]({{< baseurl >}}/pages/projects/farmembed04)
+[\< previous project page]({{< baseurl >}}/pages/projects/farmembed02) | {{% resource_link fcf4e5d3-429e-556d-e543-bd11a85a57b5 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/farmembed04)
 
 
 {{< tdclose >}}

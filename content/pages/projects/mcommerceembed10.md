@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Episode 3: Logistics
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed09) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed11)
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed09) | {{% resource_link 24005ec1-d818-30d8-fb37-63b7b50e81b6 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed11)
 
 
 {{< tdclose >}}

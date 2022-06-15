@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -22,19 +23,19 @@ Next we're looking to solve outgoing message problems and to allow users to ente
 
 Geocoding of the textual address is done via GeoKit ([https://github.com/glebm/geokit-gem](https://github.com/glebm/geokit-gem)), a Ruby on Rails geocoding plugin. The prototype itself is made in Ruby on Rails and uses the Google Maps API.
 
-[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+{{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "« back to NextMap Disaster Management" %}}
 
 **Interface Snapshot**  
 October 21, 2008
 
-![](/courses/media-arts-and-sciences/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/projects/mas_965_disaster.jpg) 
+{{< resource "f17c7f70-7ff9-c543-546d-f5a5dde35a9c" >}} 
 
   
 Thinking about interfaces for viewing data in an interactive map - beyond Google Maps. This is done in Quartz Composer as a prototype - it draws on live map data from our server prototype.
 
 See [video of this interface in action](http://www.flickr.com/photos/jeffreywarren/2963528378/) \[Flickr, 0:21\]
 
-[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+{{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "« back to NextMap Disaster Management" %}}
 
 **InnovGreen: Q&A**  
 October 22nd, 2008
@@ -91,7 +92,7 @@ _Project Timeline_
 > 12/03: Working demo  
 > 12/10: Final presentation
 
-[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+{{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "« back to NextMap Disaster Management" %}}
 
 **Design Tradeoffs**  
 November 17th, 2008
@@ -116,7 +117,7 @@ In the end, I would like to implement some hybrid compression model that perhaps
 
 More info on solving these problems to come soon!
 
-[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+{{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "« back to NextMap Disaster Management" %}}
 
 **Nextlab Disaster Management teams up with OpenROSA**  
 December 25th, 2008
@@ -132,4 +133,4 @@ Happy holidays to everyone, and lets keep giving the gift of technology to those
 For more information on OpenRosa and the JavaRosa code base, please check out:  
 [http://www.openrosa.org](https://bitbucket.org/javarosa/javarosa/wiki/OpenRosaAPI)
 
-[\< back to NextMap Disaster Management]({{< baseurl >}}/pages/projects/nextmap)
+{{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "« back to NextMap Disaster Management" %}}

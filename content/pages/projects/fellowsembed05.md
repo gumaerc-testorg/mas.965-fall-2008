@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -32,7 +33,7 @@ Milestone 2: Needs Assessment
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m2))
+**Slides ({{% resource_link 28d2dcf1-d8fa-96bf-0705-7bcc649a28f7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -42,7 +43,7 @@ Milestone 2: Needs Assessment
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/fellowsembed04) | [project home]({{< baseurl >}}/pages/projects/fellows) | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed06)
+[\< previous project page]({{< baseurl >}}/pages/projects/fellowsembed04) | {{% resource_link f9d609ed-160f-e494-47b3-0036cedaddb8 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/fellowsembed06)
 
 
 {{< tdclose >}}

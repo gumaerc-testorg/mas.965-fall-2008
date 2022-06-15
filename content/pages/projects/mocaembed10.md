@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ Episode 4
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed09) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed11)
+{{% resource_link "1af754b7-f4a3-da81-9558-39c7d731a9b3" "« previous project page" %}} | {{% resource_link f456e17f-d352-fd77-73a1-7a0ae12d14c4 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/mocaembed11)
 
 
 {{< tdclose >}}

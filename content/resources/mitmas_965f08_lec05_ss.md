@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/1348d302d764ee411101c1916b36ddd1_MITMAS_965F08_Lec05_ss.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/1348d302d764ee411101c1916b36ddd1_MITMAS_965F08_Lec05_ss.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

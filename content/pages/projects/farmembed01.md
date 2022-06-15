@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Summary
 {{< tdopen >}}
 
 
-[project home]({{< baseurl >}}/pages/projects/farm) | [next project page >]({{< baseurl >}}/pages/projects/farmembed02)
+{{% resource_link fcf4e5d3-429e-556d-e543-bd11a85a57b5 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/farmembed02)
 
 
 {{< tdclose >}}

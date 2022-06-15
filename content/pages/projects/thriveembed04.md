@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -32,7 +33,7 @@ Milestone 1: Elevator Pitch
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_baby_m1))
+**Slides ({{% resource_link bfd178c9-50eb-769c-73f0-35c5ecee2f7e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -42,7 +43,7 @@ Milestone 1: Elevator Pitch
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/thriveembed03) | [project home]({{< baseurl >}}/pages/projects/thrive5) | [next project page >]({{< baseurl >}}/pages/projects/thriveembed05)
+[\< previous project page]({{< baseurl >}}/pages/projects/thriveembed03) | {{% resource_link f4479433-ca95-d04f-f63d-9b843eef93ba "project home" %}} | {{% resource_link 24bfb6ec-d319-3384-f5a3-0a141d9337b9 "next project page >" %}}
 
 
 {{< tdclose >}}

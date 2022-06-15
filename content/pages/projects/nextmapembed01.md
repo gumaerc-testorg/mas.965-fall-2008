@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ Summary
 {{< tdopen >}}
 
 
-[project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed02)
+{{% resource_link 4a2d649b-f7aa-7691-6f23-275d621a0437 "project home" %}} | {{% resource_link cb84bd19-8cb8-5d03-a310-8e7780066505 "next project page >" %}}
 
 
 {{< tdclose >}}

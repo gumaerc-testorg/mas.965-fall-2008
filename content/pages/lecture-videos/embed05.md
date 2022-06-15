@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Banerjee and Duflo. "The Economic Lives of the Poor."
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec05_ss)) (Courtesy of Sreya Sengupta. Used with permission.)
+Slides ({{% resource_link 1348d302-d764-ee41-1101-c1916b36ddd1 "PDF" %}}) (Courtesy of Sreya Sengupta. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec05_ss)) (Courtesy of Sr
 {{< tdopen >}}
 
 
-Sessions: 5.0 | [5.1]({{< baseurl >}}/pages/lecture-videos/embed5_01)
+Sessions: 5.0 | {{% resource_link bde542a5-c250-9224-0d9b-259b69f023b8 "5.1" %}}
 
 
 {{< tdclose >}}
@@ -59,4 +60,4 @@ Sessions: 5.0 | [5.1]({{< baseurl >}}/pages/lecture-videos/embed5_01)
 
 This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Episode 6: Clarity!
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed12) | [project home]({{< baseurl >}}/pages/projects/mcommerce)
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed12) | {{% resource_link 24005ec1-d818-30d8-fb37-63b7b50e81b6 "project home" %}}
 
 
 {{< tdclose >}}

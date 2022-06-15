@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Malink. "Design of Health Care Technologies for the Developing World"
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec07_sa)) (Courtesy of Santiago Alfaro. Used with permission.)
+Slides ({{% resource_link c9d49a2f-44c9-6838-7ba8-9b189c46863a "PDF" %}}) (Courtesy of Santiago Alfaro. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec07_sa)) (Courtesy of Sa
 {{< tdopen >}}
 
 
-Sessions: 7.0 | [7.1]({{< baseurl >}}/pages/lecture-videos/embed07_01)
+Sessions: 7.0 | {{% resource_link aa15a01f-bf27-9ac3-3a42-d2e3e215e054 "7.1" %}}
 
 
 {{< tdclose >}}
@@ -59,4 +60,4 @@ Sessions: 7.0 | [7.1]({{< baseurl >}}/pages/lecture-videos/embed07_01)
 
 This video was produced and provided by [FOOL DIDDLY](https://vimeo.com/user717518) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

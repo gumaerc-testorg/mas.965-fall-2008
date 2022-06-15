@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Caldwell. "Cultural and Social Factors Influencing Mortality Levels in Developin
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec07_jv)) (Courtesy of Jon Varsanik. Used with permission.)
+Slides ({{% resource_link 93e95b28-7a68-cb80-f71f-107efba353dc "PDF" %}}) (Courtesy of Jon Varsanik. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec07_jv)) (Courtesy of Jo
 {{< tdopen >}}
 
 
-Sessions: [7.0]({{< baseurl >}}/pages/lecture-videos/embed07) | 7.1
+Sessions: {{% resource_link b3488084-64c8-ed51-2aaf-62c376b1badf "7.0" %}} | 7.1
 
 
 {{< tdclose >}}
@@ -59,4 +60,4 @@ Sessions: [7.0]({{< baseurl >}}/pages/lecture-videos/embed07) | 7.1
 
 This video was produced and provided by [Julianne Palazzo](https://vimeo.com/user722244) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

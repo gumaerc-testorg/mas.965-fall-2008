@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Anantraman et al. "Handheld computers for rural healthcare: Experiences from res
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec14_cm)) (Courtesy of Crystal Mao. Used with permission.)
+Slides ({{% resource_link cf36a11b-72e0-052e-7dab-1953797ebebb "PDF" %}}) (Courtesy of Crystal Mao. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec14_cm)) (Courtesy of Cr
 {{< tdopen >}}
 
 
-Sessions: [14.0]({{< baseurl >}}/pages/lecture-videos/embed14) | [14.1]({{< baseurl >}}/pages/lecture-videos/embed14_01) | 14.2 | [14.3]({{< baseurl >}}/pages/lecture-videos/embed14_03) | [14.4]({{< baseurl >}}/pages/lecture-videos/embed14_04) | [14.5]({{< baseurl >}}/pages/lecture-videos/embed14_05)
+Sessions: {{% resource_link c28328db-a4fc-3d97-e806-854a3231f65b "14.0" %}} | {{% resource_link 2447a7ac-c8fa-3592-cf66-874d42bd117b "14.1" %}} | 14.2 | {{% resource_link af49215f-fcaa-78da-e3ab-1bcfd618aa17 "14.3" %}} | {{% resource_link 3b291d34-ec69-979c-5e89-4d54a9b8725d "14.4" %}} | {{% resource_link 06ec246b-dac5-1ba9-8e07-7bb7a87e0c3f "14.5" %}}
 
 
 {{< tdclose >}}
@@ -59,4 +60,4 @@ Sessions: [14.0]({{< baseurl >}}/pages/lecture-videos/embed14) | [14.1]({{< base
 
 This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

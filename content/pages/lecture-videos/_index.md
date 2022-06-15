@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The lecture videos section contains topics to be covered in the lectures.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Lecture Videos
 uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 ---
 
-Videos, slides and other materials on individual projects can be found on the [projects]({{< baseurl >}}/pages/projects) pages.
+Videos, slides and other materials on individual projects can be found on the {{% resource_link 7b53ea3b-401e-0767-1816-c31fc0eee770 "projects" %}} pages.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -32,7 +33,7 @@ READINGS DISCUSSIONS
 {{< tdopen >}}
 Introduction to NextLab
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed01)
+> {{% resource_link 1a37e7dd-b4a8-f89b-8061-6c4305bdba8d "Video and Slides" %}}
 
 
 {{< tdclose >}}
@@ -48,11 +49,11 @@ Introduction to NextLab
 {{< tdopen >}}
 
 
-Proposal selection process ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec02))
+Proposal selection process ({{% resource_link a208f07a-6f81-50e9-7a37-890c2575bf52 "PDF" %}})
 
 Project proposal presentations
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed02)
+> {{% resource_link 12227685-db41-fb83-9973-c8f6342bf3b3 "Video and Slides" %}}
 
 
 {{< tdclose >}}
@@ -70,11 +71,11 @@ Project proposal presentations
 
 Needs assessment (Guest lecture by Rachel Hall-Clifford)
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed_03_01)
+> {{% resource_link 0088a8b0-1117-dde3-e969-d6fc12b47f43 "Video and Slides" %}}
 
 Team formation
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed_03_02)
+> {{% resource_link a8354599-17f4-8cba-ed25-2029641827d2 "Video and Slides" %}}
 
 
 {{< tdclose >}}
@@ -92,7 +93,7 @@ Team formation
 
 Class logistics
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed04_01)
+> {{% resource_link 4b0cb5a2-2fc2-c517-1f9e-c0116ff9aa2e "Video and Slides" %}}
 
 Planning ICT4D Interventions
 
@@ -107,7 +108,7 @@ Donner et al. "Stages of Design in Technology for Global Development."
 
 Pentland et al. "DakNet: rethinking connectivity in developing nations."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed04) by Michael Gordon
+> {{% resource_link 277d5646-a13e-6dee-89d6-4f5b371ec925 "Video and Slides" %}} by Michael Gordon
 
 
 {{< tdclose >}}
@@ -131,11 +132,11 @@ Technology survey / ICT penetration
 
 Banerjee and Duflo. "The Economic Lives of the Poor."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed05) by Sreya Sengupta
+> {{% resource_link a6445414-82ea-382e-ec04-d29382bac86e "Video and Slides" %}} by Sreya Sengupta
 
 Jensen. "The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed5_01) by anonymous MIT student
+> {{% resource_link bde542a5-c250-9224-0d9b-259b69f023b8 "Video and Slides" %}} by anonymous MIT student
 
 
 {{< tdclose >}}
@@ -160,7 +161,7 @@ Milestone 1: Elevator pitch, including related work
 {{< tdopen >}}
 
 
-Social and cultural considerations ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec07_social))
+Social and cultural considerations ({{% resource_link a70a12cb-f6be-61b4-baac-0f93201ef9e0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -169,11 +170,11 @@ Social and cultural considerations ([PDF]({{< baseurl >}}/resources/mitmas_965f0
 
 Malink. "Design of Health Care Technologies for the Developing World."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed07) by Santiago Alfaro
+> {{% resource_link b3488084-64c8-ed51-2aaf-62c376b1badf "Video and Slides" %}} by Santiago Alfaro
 
 Caldwell. "Cultural and Social Factors Influencing Mortality Levels in Developing Countries."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed07_01) by Jon Varsanik
+> {{% resource_link aa15a01f-bf27-9ac3-3a42-d2e3e215e054 "Video and Slides" %}} by Jon Varsanik
 
 
 {{< tdclose >}}
@@ -207,7 +208,7 @@ ICT4D history
 
 Kumar. "eChoupals: A Study on the Financial Sustainability of Village Internet Centers in Rural Madhya Pradesh."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed09) by anonymous MIT student
+> {{% resource_link f1b2abd2-a9f6-7c66-d459-70c252ba7147 "Video and Slides" %}} by anonymous MIT student
 
 
 {{< tdclose >}}
@@ -222,7 +223,7 @@ Kumar. "eChoupals: A Study on the Financial Sustainability of Village Internet C
 
 Milestone 3 requirements
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed_10)
+> {{% resource_link 1ca06ed3-63ea-3a92-f6b1-2152b120d93e "Video and Slides" %}}
 
 Milestone 2: Presentations on needs assessment results
 
@@ -261,19 +262,19 @@ Interfaces
 
 Parishk et al. "Design studies for a financial management system for micro-credit groups in rural India."
 
-> [Slides]({{< baseurl >}}/pages/lecture-videos/embed12) by anonymous MIT student
+> {{% resource_link cd62710e-b01f-20a3-fc32-05326b919f3a "Slides" %}} by anonymous MIT student
 
 Parikh and Lazowa. "Designing an architecture for delivering mobile info services to rural developing world."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed12_02) by Oliver Wilder-Smith
+> {{% resource_link 94bba97f-56fd-5488-0c07-6e0bb19d1bae "Video and Slides" %}} by Oliver Wilder-Smith
 
 Mehdi et al. "Text-Free User Interfaces for Illiterate and Semiliterate Users."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed12_03) by Ted Chan
+> {{% resource_link 8f8fc9ed-4a0d-8898-56b8-5646d768fc55 "Video and Slides" %}} by Ted Chan
 
 Mehdi and Toyama. "Full-Context Videos for First-Time, Non-Literate PC Users."
 
-> [Video]({{< baseurl >}}/pages/lecture-videos/embed12_04) by Scot Frank
+> {{% resource_link 188838a0-35f2-ebe5-ee1a-ad6061f9af78 "Video" %}} by Scot Frank
 
 
 {{< tdclose >}}
@@ -292,7 +293,7 @@ Two guest lectures:
 
 2) Microsoft Innovation Partnership Program (Guest lecture by Smeeta Hirani, Microsoft.)
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed13)
+> {{% resource_link 2c3b4d5b-c9ba-53dd-23f2-2e4a0491df49 "Video and Slides" %}}
 
 Milestone 3: Presentations on system design and initial implementation results
 
@@ -312,7 +313,7 @@ Milestone 3: Presentations on system design and initial implementation results
 {{< tdopen >}}
 
 
-Health ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec14_gari)) (Courtesy of Gari Clifford. Used with permission.)
+Health ({{% resource_link 6f9ee30a-0d51-08d7-65b2-c227bac84b2a "PDF" %}}) (Courtesy of Gari Clifford. Used with permission.)
 
 
 {{< tdclose >}}
@@ -321,27 +322,27 @@ Health ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec14_gari)) (Courtesy of 
 
 Clifford, G., et al. "Medical information systems: A foundation for healthcare technologies in developing countries."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed14) by anonymous MIT student
+> {{% resource_link c28328db-a4fc-3d97-e806-854a3231f65b "Video and Slides" %}} by anonymous MIT student
 
 Blaya et al. "A web-based laboratory information system to improve quality of care of tuberculosis patients in Peru: functional requirements, implementation and usage statistics."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed14_01) by anonymous MIT student
+> {{% resource_link 2447a7ac-c8fa-3592-cf66-874d42bd117b "Video and Slides" %}} by anonymous MIT student
 
 Anantraman et al. "Handheld computers for rural healthcare: Experiences from research concept to global operations."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed14_02) by Crystal Mao
+> {{% resource_link 59e49784-73a2-7e87-b4fc-a62c19de2232 "Video and Slides" %}} by Crystal Mao
 
 Sherwani et al. "HealthLine: Speech-based Access to Health Information by Low-literate Users."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed14_03) by anonymous MIT student
+> {{% resource_link af49215f-fcaa-78da-e3ab-1bcfd618aa17 "Video and Slides" %}} by anonymous MIT student
 
 Fraser et al. "An information system and medical record to support HIV treatment in rural Haiti."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed14_04) by Clark Freifeld
+> {{% resource_link 3b291d34-ec69-979c-5e89-4d54a9b8725d "Video and Slides" %}} by Clark Freifeld
 
 Malkin, "Technologies for clinically relevant physiological measurements in developing countries."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed14_05) by Sameer Hirji
+> {{% resource_link 06ec246b-dac5-1ba9-8e07-7bb7a87e0c3f "Video and Slides" %}} by Sameer Hirji
 
 
 {{< tdclose >}}
@@ -377,11 +378,11 @@ Health (continued)
 
 Szot et al. "Diagnostic Accuracy of Chest X-rays Using a Digital Camera for Low-Cost Teleradiology."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed16) by anonymous MIT student
+> {{% resource_link 1f371c5f-79dc-e6c8-a1df-284f69f16ddb "Video and Slides" %}} by anonymous MIT student
 
 Plauché and Nallasamy. "Speech interfaces for equitable access to information technology."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed16_01) by Anastasios Dimas
+> {{% resource_link 88ba5496-fadf-0d7e-7582-5c47631073ce "Video and Slides" %}} by Anastasios Dimas
 
 
 {{< tdclose >}}
@@ -427,15 +428,15 @@ Education
 
 Leach. "DEEP IMPACT: an investigation of the use of information and communication technologies for teacher education in the global south."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed19) by Rashmi Melgiri
+> {{% resource_link 4b8d8635-c48d-f1fb-219e-6fe87a738250 "Video and Slides" %}} by Rashmi Melgiri
 
 Kam et al. "Localized iterative design for language learning in underdeveloped regions."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed19_01) by anonymous MIT student
+> {{% resource_link 14bc2141-80d7-d29a-217b-b4ae920d03e2 "Video and Slides" %}} by anonymous MIT student
 
 Kremer and Miguel. "Worms: Identifying Impacts on Health & Education in Presence of Treatment Externalites."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed19_02) by anonymous MIT student
+> {{% resource_link 41cbadfe-1ecb-1b6d-6cb5-8a53b7379faa "Video and Slides" %}} by anonymous MIT student
 
 
 {{< tdclose >}}
@@ -457,15 +458,15 @@ Mobile money and transactions
 
 Wishart. "Micro-Payment Systems and Their Application to Mobile Networks."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed20) by anonymous MIT student
+> {{% resource_link 2fcbfb92-2254-edfb-9554-d0a715ca8691 "Video and Slides" %}} by anonymous MIT student
 
 Vodafone and Nokia. "The Transformational Potential of M-Transactions."
 
-> [Video and Slides]({{< baseurl >}}/pages/lecture-videos/embed20_01) by anonymous MIT student
+> {{% resource_link da7f3540-7f5c-9e66-7e21-e6aa0fefe4ff "Video and Slides" %}} by anonymous MIT student
 
 Obopay
 
-> [Video]({{< baseurl >}}/pages/lecture-videos/embed20_02) by M. Ehsan Hoque
+> {{% resource_link 5b6dab00-a152-af5f-d18f-d328d5f43292 "Video" %}} by M. Ehsan Hoque
 
 
 {{< tdclose >}}
@@ -494,7 +495,7 @@ Milestone 5 continued
 
 Nextlab Final Presentation Template
 
-> [Video]({{< baseurl >}}/pages/lecture-videos/embed22)
+> {{% resource_link 8ea25399-5ea2-d9a8-7077-f418692f485e "Video" %}}
 
 
 {{< tdclose >}}
@@ -550,9 +551,9 @@ Conclusion
 
 Opening remarks by Jhonatan Rotberg and Luis Sarmenta
 
-> [Video]({{< baseurl >}}/pages/lecture-videos/embed26)
+> {{% resource_link 3cad4fd8-b2ba-055c-dfdc-89ad9f1441ce "Video" %}}
 
-For individual project presentations and demonstrations, see the [Projects]({{< baseurl >}}/pages/projects) pages.
+For individual project presentations and demonstrations, see the {{% resource_link 7b53ea3b-401e-0767-1816-c31fc0eee770 "Projects" %}} pages.
 
 
 {{< tdclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Milestone 3: System Design and Initial Implementation
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m3))
+**Slides ({{% resource_link 70ef5062-f104-54f7-ba8b-f1e0a5b4a0a4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Milestone 3: System Design and Initial Implementation
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/moneyembed05) | [project home]({{< baseurl >}}/pages/projects/getnewmoney) | [next project page >]({{< baseurl >}}/pages/projects/moneyembed07)
+[\< previous project page]({{< baseurl >}}/pages/projects/moneyembed05) | {{% resource_link 2b06f271-7ef9-f21f-0ffd-26f30cf8c4ad "project home" %}} | {{% resource_link f43b7683-0816-53c6-89fe-607b2ca2e690 "next project page >" %}}
 
 
 {{< tdclose >}}

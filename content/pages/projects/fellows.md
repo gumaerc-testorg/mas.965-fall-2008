@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -125,7 +126,7 @@ Final Class Presentation
 [Telmex Fellows Forum Final Presentation](https://vimeo.com/3151171) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
 
   
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_final)
+{{% resource_link 4d1eba74-b42b-c44e-f72f-0c2c7f7bffdc "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +141,7 @@ Final Class Presentation
 Milestone 1: Elevator Pitch
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m1)
+{{% resource_link 7d2b26d7-2035-e486-a04b-c8bdd71d2c9a "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +150,7 @@ Milestone 1: Elevator Pitch
 Milestone 2: Needs Assessment
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m2)
+{{% resource_link 28d2dcf1-d8fa-96bf-0705-7bcc649a28f7 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +164,7 @@ Milestone 3: System Design and Initial Implementation
 [fellows forum milestone 3](https://vimeo.com/2570324) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
 
   
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m3)
+{{% resource_link 588ee175-f89e-f632-d1bb-b6896f7d4c52 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,11 +173,11 @@ Milestone 3: System Design and Initial Implementation
 Milestone 4: Sustainability
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m4)
+{{% resource_link 13b33f79-29ea-8358-2928-574c3b7df489 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-[\< back to project index]({{< baseurl >}}/pages/projects)
+{{% resource_link "7b53ea3b-401e-0767-1816-c31fc0eee770" "« back to project index" %}}

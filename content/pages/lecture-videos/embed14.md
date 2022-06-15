@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Clifford, G., et al. "Medical information systems: A foundation for healthcare t
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec14_bc)) (Courtesy of anonymous MIT student. Used with permission.)
+Slides ({{% resource_link b2db55ea-2743-d6e3-aef0-387857265e4d "PDF" %}}) (Courtesy of anonymous MIT student. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec14_bc)) (Courtesy of an
 {{< tdopen >}}
 
 
-Sessions: 14.0 | [14.1]({{< baseurl >}}/pages/lecture-videos/embed14_01) | [14.2]({{< baseurl >}}/pages/lecture-videos/embed14_02) | [14.3]({{< baseurl >}}/pages/lecture-videos/embed14_03) | [14.4]({{< baseurl >}}/pages/lecture-videos/embed14_04) | [14.5]({{< baseurl >}}/pages/lecture-videos/embed14_05)
+Sessions: 14.0 | {{% resource_link 2447a7ac-c8fa-3592-cf66-874d42bd117b "14.1" %}} | {{% resource_link 59e49784-73a2-7e87-b4fc-a62c19de2232 "14.2" %}} | {{% resource_link af49215f-fcaa-78da-e3ab-1bcfd618aa17 "14.3" %}} | {{% resource_link 3b291d34-ec69-979c-5e89-4d54a9b8725d "14.4" %}} | {{% resource_link 06ec246b-dac5-1ba9-8e07-7bb7a87e0c3f "14.5" %}}
 
 
 {{< tdclose >}}
@@ -59,4 +60,4 @@ Sessions: 14.0 | [14.1]({{< baseurl >}}/pages/lecture-videos/embed14_01) | [14.2
 
 This video was produced and provided by [Helyne Adamson](https://vimeo.com/helyneadamson) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

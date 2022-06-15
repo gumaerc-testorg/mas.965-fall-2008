@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -36,7 +37,7 @@ Parikh and Lazowa. "Designing an architecture for delivering mobile info service
 
 
 **Student-led discussion**  
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec12_ows)) (Courtesy of Oliwer Wilder-Smith. Used with permission.)
+Slides ({{% resource_link 339b0d91-a0e9-bf5e-64e3-9648af20848b "PDF" %}}) (Courtesy of Oliwer Wilder-Smith. Used with permission.)
 
 
 {{< tdclose >}}
@@ -46,7 +47,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec12_ows)) (Courtesy of O
 {{< tdopen >}}
 
 
-Sessions: [12.0]({{< baseurl >}}/pages/lecture-videos/embed12) | 12.1 | [12.2]({{< baseurl >}}/pages/lecture-videos/embed12_03) | [12.3]({{< baseurl >}}/pages/lecture-videos/embed12_04)
+Sessions: {{% resource_link cd62710e-b01f-20a3-fc32-05326b919f3a "12.0" %}} | 12.1 | {{% resource_link 8f8fc9ed-4a0d-8898-56b8-5646d768fc55 "12.2" %}} | {{% resource_link 188838a0-35f2-ebe5-ee1a-ad6061f9af78 "12.3" %}}
 
 
 {{< tdclose >}}
@@ -59,4 +60,4 @@ Sessions: [12.0]({{< baseurl >}}/pages/lecture-videos/embed12) | 12.1 | [12.2]({
 
 This video was produced and provided by [Disaster Management](http://vimeo.com/user807017) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

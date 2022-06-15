@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Milestone 3: System Design and Initial Implementation
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/farmembed05) | [project home]({{< baseurl >}}/pages/projects/farm) | [next project page >]({{< baseurl >}}/pages/projects/farmembed07)
+{{% resource_link "25b5dbbc-8dda-6260-11c1-27a3c7df6d05" "« previous project page" %}} | {{% resource_link fcf4e5d3-429e-556d-e543-bd11a85a57b5 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/farmembed07)
 
 
 {{< tdclose >}}

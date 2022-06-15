@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Demonstration
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed01) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed03)
+[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed01) | {{% resource_link f456e17f-d352-fd77-73a1-7a0ae12d14c4 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/mocaembed03)
 
 
 {{< tdclose >}}

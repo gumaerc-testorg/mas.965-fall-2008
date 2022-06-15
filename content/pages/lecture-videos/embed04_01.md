@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -15,7 +16,7 @@ uid: 4b0cb5a2-2fc2-c517-1f9e-c0116ff9aa2e
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec04_logic))  
+Slides ({{% resource_link c11b4bed-54c3-714c-c733-21f061fc7b85 "PDF" %}})  
  
 
 
@@ -29,4 +30,4 @@ Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_lec04_logic))
 
 This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
-[\< back to lecture index]({{< baseurl >}}/pages/lecture-videos)
+{{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

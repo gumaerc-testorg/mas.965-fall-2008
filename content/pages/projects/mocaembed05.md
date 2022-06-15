@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -32,7 +33,7 @@ Milestone 2: Needs Assessment
 
 
 **Resources:  
-**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_moca_m2))
+**Slides ({{% resource_link 401916f2-6f6b-ad9d-f158-a19753307ad1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -42,7 +43,7 @@ Milestone 2: Needs Assessment
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed04) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed06)
+[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed04) | {{% resource_link f456e17f-d352-fd77-73a1-7a0ae12d14c4 "project home" %}} | {{% resource_link 57de53e0-0958-4806-4526-b73431a0f7f9 "next project page >" %}}
 
 
 {{< tdclose >}}

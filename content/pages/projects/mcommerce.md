@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -124,7 +125,7 @@ Final Class Presentation
 [United Villages M-Commerce Final Presentation](https://vimeo.com/3163018) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
 
   
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_final)
+{{% resource_link 512cb363-0f89-a053-8f4a-569f49672a3a "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ Final Class Presentation
 Milestone 1: Elevator Pitch
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_m1)
+{{% resource_link 3bf5726a-19d0-6be5-67ea-30604bc28b84 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +149,7 @@ Milestone 1: Elevator Pitch
 Milestone 2: Needs Assessment
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_m2)
+{{% resource_link 12cbe077-c671-87ac-ff6d-0db13114b730 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Milestone 2: Needs Assessment
 Milestone 3:  System Design and Initial Implementation
 {{< tdclose >}}
 {{< tdopen >}}
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_m3)
+{{% resource_link fa4ab6c9-b6bd-5f63-1ffc-928b7777c728 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,11 +172,11 @@ Milestone 4: Sustainability
 [M-Commerce Milestone 4/Sustainability Plan](https://vimeo.com/3187212) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
 
   
-[PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_m4)
+{{% resource_link be654cf2-54c4-617d-7a42-0b0634787da5 "PDF" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-[\< back to project index]({{< baseurl >}}/pages/projects)
+{{% resource_link "7b53ea3b-401e-0767-1816-c31fc0eee770" "« back to project index" %}}

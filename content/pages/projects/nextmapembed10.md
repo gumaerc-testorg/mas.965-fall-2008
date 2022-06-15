@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,7 +43,7 @@ Episode 2: "Addressing the needs of CRS"
 {{< tdopen >}}
 
 
-[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed09) | [project home]({{< baseurl >}}/pages/projects/nextmap) | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed11)
+[\< previous project page]({{< baseurl >}}/pages/projects/nextmapembed09) | {{% resource_link 4a2d649b-f7aa-7691-6f23-275d621a0437 "project home" %}} | [next project page >]({{< baseurl >}}/pages/projects/nextmapembed11)
 
 
 {{< tdclose >}}
