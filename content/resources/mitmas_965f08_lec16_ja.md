@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Diagnostic Accuracy of Chest X-rays Using a Digital Camera for Low-Cost T
 uid: 9046f54e-fd8d-e0e4-1d27-c689cfd1d70f
 ---
 This resource contains the information regarding diagnostic accuracy of Chest X-rays Using a Digital Camera for Low-Cost Teleradiology.
-

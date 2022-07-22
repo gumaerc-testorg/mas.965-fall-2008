@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Design studies for a financial management system for micro-credit groups 
 uid: b556d070-4e41-dbdf-c0ee-596a1f1f5829
 ---
 This resource contains the information regarding design studies for a financial management system for micro-credit groups in rural India.
-

@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Cultural and Social Factors Influencing Mortality Levels in Developing Co
 uid: 93e95b28-7a68-cb80-f71f-107efba353dc
 ---
 This resource contains the information regarding cultural and Social Factors Influencing Mortality Levels in Developing Countries.
-

@@ -5,6 +5,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Fellows Forum
 uid: 4d1eba74-b42b-c44e-f72f-0c2c7f7bffdc
 ---
 This resource contains the information regarding the fellows forum.
-

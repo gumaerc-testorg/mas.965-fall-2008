@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "UV M\u2010Commerce Interface System Design"
 uid: fa4ab6c9-b6bd-5f63-1ffc-928b7777c728
 ---
 This resource contains the information regarding UVM‐Commerce Interface SystemDesign.
-

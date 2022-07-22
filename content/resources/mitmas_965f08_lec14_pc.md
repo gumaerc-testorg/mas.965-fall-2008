@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'HealthLine: Speech-based Access to Health Information by Low-literate Us
 uid: 51745e70-4407-dd61-2b73-b16886540319
 ---
 This resource contains the information regarding healthLine: Speech-based Access to Health Information by Low-literate Users.
-

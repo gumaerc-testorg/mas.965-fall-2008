@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Nextmap needs assessment milestone
 uid: 0db9522d-c739-778a-6982-0e62046acc2a
 ---
 This resource contains the information regarding nextmap needs assessment milestone.
-

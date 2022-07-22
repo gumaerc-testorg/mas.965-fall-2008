@@ -5,6 +5,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'BabyBlog: Sustainability'
 uid: 85172e2d-a85d-42d9-a071-4750a21f6ce2
 ---
 This resource contains the information regarding BabyBlog: Sustainability.
-

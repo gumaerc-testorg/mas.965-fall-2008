@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Milestone 3: Initial Design'
 uid: f492d97d-2ff1-47d8-a47f-b1f14e3d4215
 ---
 This resource contains the information regarding milestone 3: initial design.
-

@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "An Introduction to the GSMA\u2019s Mobile Innovation Market and Developm
 uid: d2621035-3835-c004-c606-6a5eacb18eac
 ---
 This resource contains the information regarding an Introduction to the GSMA’s Mobile Innovation Market and Development Fund.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: mas_965_disaster.jpg
 uid: f17c7f70-7ff9-c543-546d-f5a5dde35a9c
 ---
 Thinking about interfaces for viewing data in an interactive map - beyond Google Maps. This is done in Quartz Composer as a prototype - it draws on live map data from our server prototype.
-

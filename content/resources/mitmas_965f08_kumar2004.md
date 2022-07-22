@@ -7,6 +7,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Research Article: eChoupals: A Study on the Financial Sustainability of 
 uid: cb65851b-9ccb-af0f-3675-ba3a4b38b8d6
 ---
 This resource contains the information regarding Research eChoupals: a study on the financial sustainability of village internet centers in rural madhya pradesh.
-

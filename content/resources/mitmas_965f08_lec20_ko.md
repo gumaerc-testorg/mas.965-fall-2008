@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Transformational Potential of M-Transactions
 uid: 353f78c8-9635-7557-61e9-f4851420e103
 ---
 This resource contains the information regarding the Transformational Potential of M-Transactions.
-

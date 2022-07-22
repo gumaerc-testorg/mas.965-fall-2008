@@ -7,6 +7,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'DEEP IMPACT: an investigation of the use of information and communicatio
 uid: 89174b75-4ccc-063f-ab0f-4f262ec4b37b
 ---
 This resource contains the information regarding DEEP IMPACT: an investigation of the use of information and communication technologies for teacher education in the global south.
-

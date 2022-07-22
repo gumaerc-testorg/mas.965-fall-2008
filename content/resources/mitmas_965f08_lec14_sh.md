@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Technologies for clinically relevant physiological measurements in develo
 uid: d1d5463f-5c1e-0941-e3a7-014b6afe3049
 ---
 This resource contains the information regarding echnologies for clinically relevant physiological measurements in developing countries.
-

@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction to NextLab I
 uid: 1e1d4986-4348-db8e-c1f2-f1b613460b17
 ---
 This resource contains the information regarding introduction to NextLab I.
-

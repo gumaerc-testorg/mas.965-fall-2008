@@ -5,6 +5,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Nextmap CRS+ Innov Green
 uid: 046fa127-d38a-6033-1788-cbfa1d9203c3
 ---
 This resource contains the information regarding nextmap CRS+ innov green.
-

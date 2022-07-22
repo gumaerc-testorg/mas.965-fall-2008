@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: United Villages Mobile Commerce Interface
 uid: 12cbe077-c671-87ac-ff6d-0db13114b730
 ---
 This resource contains the information regarding United Villages Mobile Commerce Interface.
-

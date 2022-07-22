@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Giving Farmers a Fighting Chance: Transforming the Rural Economy in Zaca
 uid: 4b0ee5c8-c3e4-636b-024a-b504c4553f92
 ---
 This resource contains the information regarding Giving Farmers a Fighting Chance: Transforming the Rural Economy in Zacatecas through Mobile Technology.
-

@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Text-Free User Interfaces for Illiterate and Semiliterate Users
 uid: 3020f07b-96b7-9f1b-b733-6b910dbf3bf9
 ---
 This resource contains the information regarding text-Free User Interfaces for Illiterate and Semiliterate Users.
-

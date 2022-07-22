@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ' Milestone1: Elevator Pitch & Background Research'
 uid: 3d6328c6-678c-458c-117e-ee946a62ce2f
 ---
 This resource contains the information regarding milestone1: elevator pitch & background research.
-

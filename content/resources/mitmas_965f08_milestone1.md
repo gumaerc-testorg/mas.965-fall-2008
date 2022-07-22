@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Elevator Pitch and Related Work
 uid: 7fd48b3e-c8dc-7dba-0f94-3a198dbe4e07
 ---
 This resource contains the information regarding elevator pitch and related work.
-

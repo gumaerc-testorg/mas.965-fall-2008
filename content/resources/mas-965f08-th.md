@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Photo of a man mending a fishing net, overlaid with the words 'I AM NEXT.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-965f08-th.jpg
 uid: a850456c-f1da-be8b-365a-3a435852802f
 ---
 New image Upload
-

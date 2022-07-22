@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'MILESTONE 2: NEEDS ASSESSMENT'
 uid: 401916f2-6f6b-ad9d-f158-a19753307ad1
 ---
 This resource contains the information regarding MILESTONE 2: NEEDS ASSESSMENT.
-

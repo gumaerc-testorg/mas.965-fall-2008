@@ -7,6 +7,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 'Research Article: A web-based laboratory information system to improve q
 uid: c5793198-6d1f-eb69-719a-c5a11617a7c8
 ---
 This resource contains the information regarding a web-based laboratory information system to improve quality of care of tuberculosis patients in Peru: functional requirements, implementation and usage statistics.
-

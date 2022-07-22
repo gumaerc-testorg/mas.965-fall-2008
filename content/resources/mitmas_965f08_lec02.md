@@ -5,6 +5,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Project Proposals
 uid: a208f07a-6f81-50e9-7a37-890c2575bf52
 ---
 This resource contains the information regarding project proposals.
-

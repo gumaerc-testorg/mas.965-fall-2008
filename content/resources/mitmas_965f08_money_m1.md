@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Enhanced Cellphone-based Multi-level Marketing for Microfinance
 uid: 5553beef-8714-c68e-d1c8-e66cef24ca08
 ---
 This resource contains the information regarding enhanced cellphone-based multi-level marketing for microfinance.
-

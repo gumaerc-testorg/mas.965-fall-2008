@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Emerging Role of Cellphones;Resource-friendly healthcare
 uid: b7de441c-abf1-b3b6-7671-5602b8788c90
 ---
 This resource contains the information regarding the Emerging Role of Cellphones;Resource-friendly healthcare.
-

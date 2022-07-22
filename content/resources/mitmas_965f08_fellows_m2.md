@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Telmex Connect Milestone #2'
 uid: 28d2dcf1-d8fa-96bf-0705-7bcc649a28f7
 ---
 This resource contains the information regarding Telmex Connect Milestone #2.
-

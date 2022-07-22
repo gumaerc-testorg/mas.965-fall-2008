@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Design of Health Care Technologies for the Developing World
 uid: c9d49a2f-44c9-6838-7ba8-9b189c46863a
 ---
 This resource contains the information regarding design of Health Care Technologies for the Developing World.
-

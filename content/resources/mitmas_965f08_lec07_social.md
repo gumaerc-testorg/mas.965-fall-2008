@@ -6,6 +6,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Technology, Social Context and Milestone
 uid: a70a12cb-f6be-61b4-baac-0f93201ef9e0
 ---
 This resource contains the information regarding technology, Social Context. and Milestone .
-

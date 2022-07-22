@@ -5,6 +5,7 @@ file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-bill
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Reading Discussions
 uid: d9ea9a0e-935b-53b3-cc57-53d071227c97
 ---
 This resource contains the information regarding reading discussions.
-
