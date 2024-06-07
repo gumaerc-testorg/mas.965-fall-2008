@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding MILESTONE 2: NEEDS
   ASSESSMENT.'
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/401916f26f6bad9df158a19753307ad1_MITMAS_965F08_moca_m2.pdf
+file_size: 678034
 file_type: application/pdf
 learning_resource_types:
 - Projects

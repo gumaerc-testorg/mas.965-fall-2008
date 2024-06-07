@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding the Transformational
   Potential of M-Transactions.
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/353f78c89635755761e9f4851420e103_MITMAS_965F08_Lec20_ko.pdf
+file_size: 98657
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

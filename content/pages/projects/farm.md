@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: Giving Farmers a Fighting Chance
+draft: false
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,13 +11,11 @@ parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: Giving Farmers a Fighting Chance
 uid: fcf4e5d3-429e-556d-e543-bd11a85a57b5
 ---
-
 This content is provided courtesy of the MIT students listed in the Project Team table, and is used with permission.
 
 {{< anchor "top" >}}{{< /anchor >}}
 
-About
------
+## About
 
 Most of the Zacatecas State of Mexico has semi-desert terrain, coupled with low per capita income. Despite its dry climate, agriculture is a key economic driver. Zacatecas produces more beans, chili peppers and nopales than any other state, and is a major producer of agave, grapes, jicima, peaches, and tomatoes.
 
@@ -26,162 +25,48 @@ The objective is to enable farmers to communicate (and thus present a united fro
 
 The description is to use peer-to-peer mobile technologies (cell phones) - easily adopted, understood, replicated, and maintained - in a rural area, and whose deployment will enable farmers to communicate and collaborate so that they, not the middlemen, can determine fair prices for their crops and ensure a marginally better economic (and socially cohesive) future.
 
-Partners
---------
+## Partners
 
-ITESM ([Tecnológico de Monterrey](http://www.itesm.edu/)), Zacatecas, Mexico
+ITESM (Tecnológico de Monterrey), Zacatecas, Mexico
 
-Project Team
-------------
+## Project Team
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< thopen >}}
 **ROLES**
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 **TEAM MEMBERS**
-{{< thclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Students
-{{< tdclose >}}
-{{< tdopen >}}
-Scot Frank  
-M. Eshan Hoque  
+{{< thclose >}}{{< thopen >}}
+Scot Frank    
+M. Eshan Hoque    
 & two anonymous MIT students
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Video journalists  
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+Video journalists    
 (from Emerson College)
-{{< tdclose >}}
-{{< tdopen >}}
-Luke Einsiedler  
+{{< thclose >}}{{< thopen >}}
+Luke Einsiedler    
 Paul Moore
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Advisor
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 Esmerelda Megally
-{{< tdclose >}}
+{{< thclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Project Documentation  
- 
--------------------------
+Project Documentation
 
 The links in this table go to individual webpages containing videos, along with supporting materials like presentation slides where available. You can navigate through these pages in sequence using the links on the top of each page.
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< thopen >}}
 VIDEOS AND SLIDES
-{{< thclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 **FINAL PROJECT**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{% resource_link 47e4e788-c6de-2754-5ded-29a602f1f171 "Summary" %}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Demonstration]({{< baseurl >}}/pages/projects/farmembed02)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{% resource_link 4d9ee528-90a4-714c-babf-22f25cac04c0 "Final Class Presentation" %}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+Final Presentation: {{% resource_link "9c48e643-db91-ab3f-f923-f369e007a39b" "Giving Farmers a Fighting Chance: Transforming the Rural Economy in Zacatecas, Mexico through Mobile Technology" %}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 **MILESTONE PRESENTATIONS**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Milestone 1: Elevator Pitch]({{< baseurl >}}/pages/projects/farmembed04)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{% resource_link 25b5dbbc-8dda-6260-11c1-27a3c7df6d05 "Milestone 2: Needs Assessment" %}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{% resource_link efd30e04-b66f-50ac-898c-ac8ff274c974 "Milestone 3:  System Design and Initial Implementation" %}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Milestone 4: Sustainability]({{< baseurl >}}/pages/projects/farmembed07)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-**PROJECT EPISODE VIDEOS**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Episode 1: The Beginning]({{< baseurl >}}/pages/projects/farmembed08)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Episode 2: The Kickoff]({{< baseurl >}}/pages/projects/farmembed09)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Episode 3: Hanging Out]({{< baseurl >}}/pages/projects/farmembed10)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Episode 4: Case Studies]({{< baseurl >}}/pages/projects/farmembed11)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{% resource_link cb9c9c83-d9ba-9abc-98c8-941e1648962f "Episode 6: Building the Prototype" %}}
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+Milestone 2: Needs Assessment {{% resource_link "4b0ee5c8-c3e4-636b-024a-b504c4553f92" "Giving Farmers a Fighting Chance: Transforming the Rural Economy in Zacatecas through Mobile Technology" %}}
+{{< thclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 {{% resource_link "7b53ea3b-401e-0767-1816-c31fc0eee770" "« back to project index" %}}

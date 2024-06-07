@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/a850456cf1dabe8b365a3a435852802f_mas-965f08-th.jpg
+file_size: 2663
 file_type: image/jpeg
 image_metadata:
   caption: NextLab designs mobile technologies for the next billion users in developing

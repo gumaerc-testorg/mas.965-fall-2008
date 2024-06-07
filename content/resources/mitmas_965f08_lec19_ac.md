@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding localized iterative
   design for language learning in underdeveloped regions.
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/0605c534df43f47ef20cb891f39e8077_MITMAS_965F08_Lec19_ac.pdf
+file_size: 1814988
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
