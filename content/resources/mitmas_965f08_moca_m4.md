@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding mobile diagnostics.
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/9948aaec7e6d421d05229b2f46eb3713_MITMAS_965F08_moca_m4.pdf
+file_size: 712349
 file_type: application/pdf
 learning_resource_types:
 - Projects

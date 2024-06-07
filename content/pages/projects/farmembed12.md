@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: Project episode videos for Giving Farmers a Fighting Chance.
+draft: true
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,52 +11,21 @@ parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: 'Giving Farmers a Fighting Chance: Project Episode Videos'
 uid: cb9c9c83-d9ba-9abc-98c8-941e1648962f
 ---
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 **Topics covered:**
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Episode 6: Building the Prototype
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+\*\*Resources:   
+\*\*None for this session.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-{{< tdclose >}}
+\[\< previous project page\]({{< baseurl >}}
 
-{{< trclose >}}
+ 
 
-{{< tableclose >}}
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-
-**Resources:  
-**None for this session.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-[\< previous project page]({{< baseurl >}}/pages/projects/farmembed11) | {{% resource_link fcf4e5d3-429e-556d-e543-bd11a85a57b5 "project home" %}}
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2273632&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
-
-This video was produced and provided by [Paul Moore](http://vimeo.com/user3686080) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video is no longer available.

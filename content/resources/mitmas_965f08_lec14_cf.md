@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding an information system
   and medical record to support HIV treatment in rural Haiti.
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/fb661ae8d1f9e32ffe7861174335e549_MITMAS_965F08_Lec14_cf.pdf
+file_size: 678626
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
