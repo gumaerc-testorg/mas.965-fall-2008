@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/8ab1809aadaa2c29ca8e37ecc1f15651_MITMAS_965F08_milestone3.pdf
+file_size: 145805
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

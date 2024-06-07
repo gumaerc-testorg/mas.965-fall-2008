@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding system design, and initial
   implementation results.
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/44e4bac8eb87306490aa0108beb35a97_MITMAS_965F08_milestone3.pdf
+file_size: 108622
 file_type: application/pdf
 learning_resource_types:
 - Projects

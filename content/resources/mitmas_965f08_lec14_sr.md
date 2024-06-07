@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding technologies for clinically
   relevant physiological measurements in developing countries.
 file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/93162c24678f75d265dd590e5cf69293_MITMAS_965F08_Lec14_sr.pdf
+file_size: 359199
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
