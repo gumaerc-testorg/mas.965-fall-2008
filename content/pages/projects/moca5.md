@@ -11,11 +11,11 @@ parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 title: Compiled Status Entries
 uid: fcf14489-aefb-e76a-3cc5-4180ba2cef6a
 ---
-**Mobile Diagnostics**    
+**Mobile Diagnostics**     
 **Project News Archive**
 
-**Mobile diagnostics in the developing world**    
-September 20th, 2008    
+**Mobile diagnostics in the developing world**     
+September 20th, 2008     
 Re-posted from Ted Chan's blog
 
 What do you get when you squish a project with General Electric to transmit ultrasound images in Belize and a project with Center for Infectious Disease in Zambia (CIDRZ) to diagnose cervical cancer in rural areas? I'm finding out over the next three months by using my technical project management skills on an important project to figure out how to transmit images over low bandwidth mobile networks.
@@ -38,9 +38,9 @@ I'm going to be posting out updates throughout the next three months that we'll 
 
 {{% resource_link "f456e17f-d352-fd77-73a1-7a0ae12d14c4" "« back to MoCa" %}}
 
-**Solution evolves towards medical image workflow management**    
-September 21st, 2008    
-From [Ted Chan's blog](http://gettogreen.blogspot.com/2008/09/open-innovation-for-health-care-in.html)
+**Solution evolves towards medical image workflow management**     
+September 21st, 2008     
+From Ted Chan's blog
 
 Some updates on the MIT NextLab/global health project that I'm working on. Originally, CIDRZ and GE were supposed to be stakeholders, but due to bandwidth concerns, we're primarily focused on the CIDRZ project and improving the workflow to diagnose and treat cervical cancer. However, having GE involved made us think about some of the more general issues that are out there, and we're trying to build a solution that is scalable and solves a few of these.
 
@@ -52,9 +52,9 @@ We're realizing that this has the potential to scale out not just the CIDRZ mode
 
 {{% resource_link "f456e17f-d352-fd77-73a1-7a0ae12d14c4" "« back to MoCa" %}}
 
-**NextLab team collaborates with OpenMRS to scale solution**    
-October 1, 2008    
-From [Ted Chan's blog](http://gettogreen.blogspot.com/2008/09/open-innovation-for-health-care-in.html)
+**NextLab team collaborates with OpenMRS to scale solution**     
+October 1, 2008     
+From Ted Chan's blog
 
 I learned in my stint as an enterprise IT strategy consultant that IT is like the holy grail in Indiana Jones and the Last Crusade. Just as good technologies gives life, bad technology takes it away. Never has that statement been so literal as it is in developing world health care.
 
@@ -68,9 +68,9 @@ There's another team working on a front-end Android interface for medical record
 
 {{% resource_link "f456e17f-d352-fd77-73a1-7a0ae12d14c4" "« back to MoCa" %}}
 
-**Debating GPL versus BSD software license**    
-October 27, 2008    
-From [Ted Chan's blog](http://gettogreen.blogspot.com/2008/09/open-innovation-for-health-care-in.html)
+**Debating GPL versus BSD software license**     
+October 27, 2008     
+From Ted Chan's blog
 
 Trying to figure out whether to use the GPL or BSD license. Numerodix had a good simplified explanation on it:
 
@@ -83,10 +83,10 @@ What are we going to do with our open source mobile diagnostics workflow solutio
 
 {{% resource_link "f456e17f-d352-fd77-73a1-7a0ae12d14c4" "« back to MoCa" %}}
 
-**Update on application progress**    
+**Update on application progress**     
 November 10, 2008
 
-*Application Development*    
+*Application Development*     
 This is what the system can currently do:
 
 1. Load a doctor-defined form and run it. We call these forms "procedures." Procedures can prompt using various entry techniques (check boxes, radio buttons, text entry, etc.) and they can acquire various types of data (currently pictures and sound)
@@ -102,12 +102,12 @@ This is what the system can currently do:
 
 As you can see, we have a complete end-to-end solution in place. While there is still a good deal of work ahead, we now have something that works. I'll send out screenshots once I get a chance to grab some.
 
-*Website*    
+*Website*     
 I registered a SourceForge Open Source project and it was approved today. They will host the code and allow others to contribute to the project. I have also set up a Documentation Wiki; there currently isn't anything on the Wiki, so in the coming few weeks we will want to start documenting the system.
 
 {{% resource_link "f456e17f-d352-fd77-73a1-7a0ae12d14c4" "« back to MoCa" %}}
 
-**Update on new partners**    
+**Update on new partners**     
 December 1st, 2008
 
 Leo Anthony Celi, our MD advisor from Harvard Medical School, recruited new partners in ASEAN Centers for E-Health and Telemedicine as well as the following universities:
