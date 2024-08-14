@@ -27,7 +27,7 @@ Donner, Jonathan, et al. "Stages of Design in Technology for Global Development.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Heeks, Richard. "ICT4D 2.0: The Next Phase of Applying ICT for International Development." *IEEE Computer* 41, no. 6 (June 2008): 26-33.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Pentland, A., R. Fletcher, and A. Hassan. "DakNet: Rethinking Connectivity in Developing Nations." *IEEE Computer* 37, no. 1. (January 2004): 78-83. (\[PDF\]([http://hd.media.mit.edu/tech-reports/TR-565.pdf](http://hd.media.mit.edu/tech-reports/TR-565.pdf)  
+Pentland, A., R. Fletcher, and A. Hassan. "DakNet: Rethinking Connectivity in Developing Nations." *IEEE Computer* 37, no. 1. (January 2004): 78-83. (\[PDF\]([http://hd.media.mit.edu/tech-reports/TR-565.pdf](http://hd.media.mit.edu/tech-reports/TR-565.pdf)   
 ))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Hudelson, Patricia M. "Introduction," and "The Toolbox." Chapters 1 and 2 in *Qualitative Research for Health Programmes*. Geneva, Switzerland: World Health Organization, WHO/MNH/PSF/94.3, 1994. ([PDF](http://whqlibdoc.who.int/hq/1994/WHO_MNH_PSF_94.3.pdf)) (Pay particular attention to Chapter 2 section on focus groups.)
@@ -182,7 +182,7 @@ Li, S., and J. Knudsen. *Beginning J2ME: From Novice to Professional*. 3rd ed. B
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Course materials](http://eprom.mit.edu/education.html) from MIT EPROM (Entrepreneurial Programming and Research on Mobiles).
+[Course materials](https://www.media.mit.edu/ventures/EPROM/education.html) from MIT EPROM (Entrepreneurial Programming and Research on Mobiles).
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
