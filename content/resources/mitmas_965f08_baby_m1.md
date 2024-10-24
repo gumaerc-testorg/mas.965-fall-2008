@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Baby Blog.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/bfd178c950eb769c73f035c5ecee2f7e_MITMAS_965F08_baby_m1.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/bfd178c950eb769c73f035c5ecee2f7e_MITMAS_965F08_baby_m1.pdf
 file_size: 543861
 file_type: application/pdf
 learning_resource_types:
