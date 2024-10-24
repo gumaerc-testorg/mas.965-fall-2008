@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding United Villages Mobile
   Commerce Interface.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/12cbe077c67187acff6d0db13114b730_MITMAS_965F08_mcomm_m2.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/12cbe077c67187acff6d0db13114b730_MITMAS_965F08_mcomm_m2.pdf
 file_size: 846483
 file_type: application/pdf
 learning_resource_types:
