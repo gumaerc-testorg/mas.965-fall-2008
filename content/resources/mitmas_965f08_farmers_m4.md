@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Giving Farmers a Fighting
   Chance: Transforming the Rural Economy in Zacatecas through Mobille Technology.'
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/e7cf56c00410619a24c35d6d67ef387d_MITMAS_965F08_farmers_m4.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/e7cf56c00410619a24c35d6d67ef387d_MITMAS_965F08_farmers_m4.pdf
 file_size: 200002
 file_type: application/pdf
 learning_resource_types:
