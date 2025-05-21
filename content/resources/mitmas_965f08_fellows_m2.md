@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Telmex Connect Milestone
   #2.'
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/28d2dcf1d8fa96bf07057bcc649a28f7_MITMAS_965F08_fellows_m2.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/28d2dcf1d8fa96bf07057bcc649a28f7_MITMAS_965F08_fellows_m2.pdf
 file_size: 299921
 file_type: application/pdf
 learning_resource_types:

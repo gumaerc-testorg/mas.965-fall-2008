@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding nextLab Multi-level
   Marketing for Mobile Banking.
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/edec82c9bd42b77f9bc643f2ac8f8af8_MITMAS_965F08_Lec20_ri.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/edec82c9bd42b77f9bc643f2ac8f8af8_MITMAS_965F08_Lec20_ri.pdf
 file_size: 1020149
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Telmex Connect.
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/7d2b26d72035e486a04bc8bdd71d2c9a_MITMAS_965F08_fellows_m1.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/7d2b26d72035e486a04bc8bdd71d2c9a_MITMAS_965F08_fellows_m1.pdf
 file_size: 99142
 file_type: application/pdf
 learning_resource_types:

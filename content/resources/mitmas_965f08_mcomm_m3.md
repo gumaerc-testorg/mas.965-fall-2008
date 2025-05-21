@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding UVM\u2010Commerce Interface\
   \ SystemDesign."
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/fa4ab6c9b6bd5f631ffc928b7777c728_MITMAS_965F08_mcomm_m3.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/fa4ab6c9b6bd5f631ffc928b7777c728_MITMAS_965F08_mcomm_m3.pdf
 file_size: 461648
 file_type: application/pdf
 learning_resource_types:

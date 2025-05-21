@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Research eChoupals:
   a study on the financial sustainability of village internet centers in rural madhya
   pradesh.'
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/cb65851b9ccbaf0f3675ba3a4b38b8d6_MITMAS_965F08_kumar2004.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/cb65851b9ccbaf0f3675ba3a4b38b8d6_MITMAS_965F08_kumar2004.pdf
 file_size: 580807
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding technology, Social Context.
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/70378e31579c8e86cccd844f1aac0ea3_MITMAS_965F08_lec07.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/70378e31579c8e86cccd844f1aac0ea3_MITMAS_965F08_lec07.pdf
 file_size: 259996
 file_type: application/pdf
 learning_resource_types:

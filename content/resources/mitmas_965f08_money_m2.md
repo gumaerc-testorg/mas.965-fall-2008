@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding multi-level Marketing
   for Microfinance: Milestone 2.'
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/fcd28fae50e3bd6e4ce3d3911bbe4a1b_MITMAS_965F08_money_m2.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/fcd28fae50e3bd6e4ce3d3911bbe4a1b_MITMAS_965F08_money_m2.pdf
 file_size: 831340
 file_type: application/pdf
 learning_resource_types:

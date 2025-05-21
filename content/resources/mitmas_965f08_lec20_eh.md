@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Obopay.
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/a16bd2e0c635ccdde3a411fdce1a1335_MITMAS_965F08_Lec20_eh.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/a16bd2e0c635ccdde3a411fdce1a1335_MITMAS_965F08_Lec20_eh.pdf
 file_size: 823858
 file_type: application/pdf
 learning_resource_types:

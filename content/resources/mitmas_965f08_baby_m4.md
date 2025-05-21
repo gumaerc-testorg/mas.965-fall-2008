@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding BabyBlog: Sustainability.'
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/85172e2da85d42d9a0714750a21f6ce2_MITMAS_965F08_baby_m4.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/85172e2da85d42d9a0714750a21f6ce2_MITMAS_965F08_baby_m4.pdf
 file_size: 777308
 file_type: application/pdf
 learning_resource_types:

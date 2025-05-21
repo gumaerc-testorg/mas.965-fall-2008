@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding echnologies for clinically
   relevant physiological measurements in developing countries.
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/d1d5463f5c1e0941e3a7014b6afe3049_MITMAS_965F08_Lec14_sh.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/d1d5463f5c1e0941e3a7014b6afe3049_MITMAS_965F08_Lec14_sh.pdf
 file_size: 337539
 file_type: application/pdf
 learning_resource_types:

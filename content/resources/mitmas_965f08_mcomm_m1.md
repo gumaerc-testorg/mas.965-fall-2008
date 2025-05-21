@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding United Villages \u2013\
   \ Mobile Interface."
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/3bf5726a19d06be567ea30604bc28b84_MITMAS_965F08_mcomm_m1.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/3bf5726a19d06be567ea30604bc28b84_MITMAS_965F08_mcomm_m1.pdf
 file_size: 113657
 file_type: application/pdf
 learning_resource_types:
