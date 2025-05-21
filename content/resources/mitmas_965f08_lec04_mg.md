@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding reading discussions.
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/d9ea9a0e935b53b3cc5753d071227c97_MITMAS_965F08_Lec04_mg.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/d9ea9a0e935b53b3cc5753d071227c97_MITMAS_965F08_Lec04_mg.pdf
 file_size: 2049278
 file_type: application/pdf
 learning_resource_types:

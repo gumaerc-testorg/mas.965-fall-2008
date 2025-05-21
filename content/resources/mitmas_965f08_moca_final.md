@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Mobile care: scalable
   imaging and diagnosis for the developing world.'
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/e4620fe2026a848e630d50b838b7e340_MITMAS_965F08_moca_final.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/e4620fe2026a848e630d50b838b7e340_MITMAS_965F08_moca_final.pdf
 file_size: 411562
 file_type: application/pdf
 learning_resource_types:

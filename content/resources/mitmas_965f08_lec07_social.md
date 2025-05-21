@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding technology, Social Context.
   and Milestone .
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/a70a12cbf6be61b4baac0f93201ef9e0_MITMAS_965F08_Lec07_social.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/a70a12cbf6be61b4baac0f93201ef9e0_MITMAS_965F08_Lec07_social.pdf
 file_size: 297297
 file_type: application/pdf
 learning_resource_types:

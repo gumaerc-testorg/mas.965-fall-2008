@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding the fellows forum.
-file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/4d1eba74b42bc44ef72f0c2c7f7bffdc_MITMAS_965F08_fellows_final.pdf
+file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/4d1eba74b42bc44ef72f0c2c7f7bffdc_MITMAS_965F08_fellows_final.pdf
 file_size: 1354255
 file_type: application/pdf
 learning_resource_types:
