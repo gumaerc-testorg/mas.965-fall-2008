@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Nextmap.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/52cf84d19c0755701999dc7a06d18455_MITMAS_965F08_nextmap_final.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/52cf84d19c0755701999dc7a06d18455_MITMAS_965F08_nextmap_final.pdf
 file_size: 1730419
 file_type: application/pdf
 learning_resource_types:

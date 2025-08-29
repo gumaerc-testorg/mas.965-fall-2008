@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding text-Free User Interfaces
   for Illiterate and Semiliterate Users.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/3020f07b96b79f1bb7336b910dbf3bf9_MITMAS_965F08_Lec12_tc.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/3020f07b96b79f1bb7336b910dbf3bf9_MITMAS_965F08_Lec12_tc.pdf
 file_size: 310033
 file_type: application/pdf
 learning_resource_types:

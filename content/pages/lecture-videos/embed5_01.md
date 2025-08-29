@@ -18,14 +18,12 @@ Jensen. "The Digital Provide: Information (Technology), Market Performance, and 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-**Student-led discussion**    
+**Student-led discussion**     
 Slides ({{% resource_link "251d27fe-6b61-e3e5-b976-87e8c30080f8" "PDF" %}}) (Courtesy of anonymous MIT student. Used with permission)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Sessions: {{% resource_link "a6445414-82ea-382e-ec04-d29382bac86e" "5.0" %}} | 5.1
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-eChoupals Presentation - Nextlab Media from [Josh Kirchmer](https://vimeo.com/user721639) on [Vimeo](https://vimeo.com/).
-
-This video was produced and provided by [Josh Kirchmer](http://vimeo.com/user721639) via Vimeo, and is not covered under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).
+eChoupals Presentation - Nextlab Media from Josh Kirchmer
 
 {{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

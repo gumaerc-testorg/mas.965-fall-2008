@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding nextmap milestone4.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/90b6a025c2286c879c25563a82ca98fc_MITMAS_965F08_nextmap_m4.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/90b6a025c2286c879c25563a82ca98fc_MITMAS_965F08_nextmap_m4.pdf
 file_size: 961591
 file_type: application/pdf
 learning_resource_types:

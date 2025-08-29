@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding nextmap CRS+ innov green.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/046fa127d38a60331788cbfa1d9203c3_MITMAS_965F08_nextmap_m1.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/046fa127d38a60331788cbfa1d9203c3_MITMAS_965F08_nextmap_m1.pdf
 file_size: 246581
 file_type: application/pdf
 learning_resource_types:
