@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding United Villages: M\u2010\
   CommerceSolutions."
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/512cb3630f89a0538f4a569f49672a3a_MITMAS_965F08_mcomm_final.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/512cb3630f89a0538f4a569f49672a3a_MITMAS_965F08_mcomm_final.pdf
 file_size: 661767
 file_type: application/pdf
 learning_resource_types:

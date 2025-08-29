@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding needs assessments initial
   results.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/94cf4539f20c279a3ae37958c889275a_MITMAS_965F08_milestone2.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/94cf4539f20c279a3ae37958c889275a_MITMAS_965F08_milestone2.pdf
 file_size: 80122
 file_type: application/pdf
 learning_resource_types:

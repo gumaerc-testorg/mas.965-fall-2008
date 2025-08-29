@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding project proposals.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/a208f07a6f8150e97a37890c2575bf52_MITMAS_965F08_Lec02.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/a208f07a6f8150e97a37890c2575bf52_MITMAS_965F08_Lec02.pdf
 file_size: 145539
 file_type: application/pdf
 learning_resource_types:

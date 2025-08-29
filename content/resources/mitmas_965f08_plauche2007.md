@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding speech interfaces for
   equitable access to information technology.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/ad3eaaa10b4ec09ff3ff0e97d9bea8ba_MITMAS_965F08_plauche2007.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/ad3eaaa10b4ec09ff3ff0e97d9bea8ba_MITMAS_965F08_plauche2007.pdf
 file_size: 818548
 file_type: application/pdf
 learning_resource_types:

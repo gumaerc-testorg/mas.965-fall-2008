@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding elevator pitch and related
   work.
-file: /courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/7fd48b3ec8dc7dba0f943a198dbe4e07_MITMAS_965F08_milestone1.pdf
+file: /ol-ocw-studio-app/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/7fd48b3ec8dc7dba0f943a198dbe4e07_MITMAS_965F08_milestone1.pdf
 file_size: 71648
 file_type: application/pdf
 learning_resource_types:
