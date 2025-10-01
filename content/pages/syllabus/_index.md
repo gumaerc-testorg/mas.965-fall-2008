@@ -11,9 +11,9 @@ uid: a90f6041-1e39-366d-1c03-0da5bdb92065
 ---
 ## This is NextLab
 
-[Watch the video on Vimeo](https://vimeo.com/3033219)
+{{% resource_link "9d89800b-963b-4dbe-bfce-e223a82ca9d1" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "64133ed4-0f66-4657-9e06-a35677adbc63" "nextlab" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
 ## Course Meeting Times
 
@@ -39,10 +39,10 @@ Prerequisites: Permission of instructor for undergraduates.
 
 ## Course Sponsors
 
-[Telmex](http://www.telmex.com/mx/), Latin America's largest telecoms operator    
-[América Móvil](https://www.americamovil.com/English/overview/default.aspx), fifth largest mobile network in the world    
-[Nokia](http://www.nokia.com/), Largest handset manufacturer in the developing world    
-[Next Billion Network](http://www.nextbillion.net/blogpost.aspx?blogid=1124) @ MIT Media Lab
+{{% resource_link "975cb3dd-099b-4eb5-9116-cd2477c75d99" "Telmex" %}}, Latin America's largest telecoms operator    
+{{% resource_link "2c050247-e4aa-4f67-b86e-e846e6710a69" "América Móvil" %}}, fifth largest mobile network in the world    
+{{% resource_link "3c04709c-5c9c-4d3d-827b-301b2a6db028" "Nokia" %}}, Largest handset manufacturer in the developing world    
+{{% resource_link "1ad54ccc-7131-44ab-a31f-62d9b03b19fe" "Next Billion Network" %}} @ MIT Media Lab
 
 ## Potential Project Partners and Projects
 
