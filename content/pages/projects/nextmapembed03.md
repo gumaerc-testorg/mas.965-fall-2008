@@ -24,6 +24,6 @@ InnovGreen - NextMap
 {{% resource_link "cb84bd19-8cb8-5d03-a310-8e7780066505" "« previous project page" %}} | {{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "project home" %}} | {{% resource_link "11d7e856-e257-2cb5-e51a-1dde8786b400" "next project page >" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-[Watch the video on Vimeo](https://vimeo.com/2480985)
+{{% resource_link "7b28d8b7-3dc1-47e9-bfdc-69c7a158a046" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Disaster Management](http://vimeo.com/user807017) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "d8a419a2-16c3-4503-ae8b-668b05044802" "Disaster Management" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

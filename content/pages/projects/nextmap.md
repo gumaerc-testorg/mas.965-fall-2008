@@ -19,8 +19,8 @@ Every year, thousands of people in India are displaced by massive floods as a re
 
 ## Partners
 
-[Catholic Relief Services (CRS)](http://www.crs.org/)   
-[InnovGreen](http://www.innovgreen.com/)
+{{% resource_link "178dd3d1-db98-4ffb-bc81-9137badffd2f" "Catholic Relief Services (CRS)" %}}   
+{{% resource_link "353d515e-05d5-4389-a5f4-a5e1fb37418e" "InnovGreen" %}}
 
 ## Project Team
 
