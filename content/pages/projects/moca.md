@@ -21,7 +21,7 @@ MoCa Mobile Diagnostics is a mobile-linked web application that will allow docto
 Partners
 --------
 
-[CIDRZ](http://www.cidrz.org/)
+{{% resource_link "38066e3d-b988-4639-925f-91e4c6fa9e1d" "CIDRZ" %}}
 
 Project Team
 ------------
@@ -85,7 +85,7 @@ Gari Clifford
 Project Documentation
 ---------------------
 
-Slides are presented courtesy of the students, used with permission. Videos are from [nextlab](https://vimeo.com/nextlab/) on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
+Slides are presented courtesy of the students, used with permission. Videos are from {{% resource_link "c13168dc-2b07-480e-83d3-4cde17f185f2" "nextlab" %}} on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -110,7 +110,7 @@ Summary
 {{< tdopen >}}
 
 
-[Moca final video Fall 2008](https://vimeo.com/4886396) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "787835d4-7842-4295-8e9a-16ddaa0d1638" "Moca final video Fall 2008" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
 
 {{< tdclose >}}
@@ -123,7 +123,7 @@ Demonstration
 {{< tdopen >}}
 
 
-[Moca demo Fall 2008](https://vimeo.com/4134914) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "0e91e43f-d2bd-4366-9ea0-5a7a46527fb8" "Moca demo Fall 2008" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
 
 {{< tdclose >}}
@@ -136,7 +136,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[Moca Final Presentation](https://vimeo.com/3079296) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "19e32ef0-8a3c-4281-88d9-e1645df61664" "Moca Final Presentation" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
   
 {{% resource_link e4620fe2-026a-848e-630d-50b838b7e340 "PDF" %}}
@@ -174,7 +174,7 @@ Milestone 3:  System Design and Initial Implementation
 {{< tdopen >}}
 
 
-[Mobile Diagnostics Milestone 3: Initial Implementation Result](https://vimeo.com/3174236) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "e4fd0777-a6c9-4365-9691-2ec586eb406e" "Mobile Diagnostics Milestone 3: Initial Implementation Result" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
   
 {{% resource_link f492d97d-2ff1-47d8-a47f-b1f14e3d4215 "PDF 1.1MB" %}}
