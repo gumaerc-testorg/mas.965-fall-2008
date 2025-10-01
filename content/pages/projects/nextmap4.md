@@ -21,7 +21,7 @@ We're just receiving messages in two formats, "locate" and "message", and mappin
 
 Next we're looking to solve outgoing message problems and to allow users to enter relative movements, i.e. "move 500 meters north". We're also thinking of adding placemarks, like "mark as office", so users can later send "locate office" and will be updated to that personal placemark.
 
-Geocoding of the textual address is done via GeoKit ([https://github.com/glebm/geokit-gem](https://github.com/glebm/geokit-gem)), a Ruby on Rails geocoding plugin. The prototype itself is made in Ruby on Rails and uses the Google Maps API.
+Geocoding of the textual address is done via GeoKit ({{% resource_link "e51cab3f-8636-49f5-92a2-d9ea384c38ba" "https://github.com/glebm/geokit-gem" %}}), a Ruby on Rails geocoding plugin. The prototype itself is made in Ruby on Rails and uses the Google Maps API.
 
 {{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "« back to NextMap Disaster Management" %}}
 
@@ -33,7 +33,7 @@ October 21, 2008
   
 Thinking about interfaces for viewing data in an interactive map - beyond Google Maps. This is done in Quartz Composer as a prototype - it draws on live map data from our server prototype.
 
-See [video of this interface in action](http://www.flickr.com/photos/jeffreywarren/2963528378/) \[Flickr, 0:21\]
+See {{% resource_link "6270c1c1-38da-4f69-bf02-76b42c2924b7" "video of this interface in action" %}} \[Flickr, 0:21\]
 
 {{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "« back to NextMap Disaster Management" %}}
 
@@ -131,6 +131,6 @@ On the subject of our earlier post regarding design tradeoffs and data compressi
 Happy holidays to everyone, and lets keep giving the gift of technology to those who need it most!
 
 For more information on OpenRosa and the JavaRosa code base, please check out:  
-[http://www.openrosa.org](https://bitbucket.org/javarosa/javarosa/wiki/OpenRosaAPI)
+{{% resource_link "2c6e842d-9c7b-41c6-a945-ccc9e2d8c05e" "http://www.openrosa.org" %}}
 
 {{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "« back to NextMap Disaster Management" %}}

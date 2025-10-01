@@ -52,6 +52,6 @@ Milestone 2: Needs Assessment
 
 {{< tableclose >}}
 
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2069604&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
+{{% resource_link "7143279e-7f14-4265-8bca-4a28807cc04e" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Nicole Prowell](http://vimeo.com/user658548) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "f6c21620-8f75-4836-aac9-27aff4ba03d3" "Nicole Prowell" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

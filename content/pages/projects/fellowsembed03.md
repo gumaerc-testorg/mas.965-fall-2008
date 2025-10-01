@@ -52,6 +52,6 @@ Final Class Presentation
 
 {{< tableclose >}}
 
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=3151171&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
+{{% resource_link "1c555e71-7e61-4c89-b21b-0efaa66df1ac" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "64133ed4-0f66-4657-9e06-a35677adbc63" "nextlab" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

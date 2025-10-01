@@ -56,8 +56,8 @@ Sessions: 7.0 | {{% resource_link aa15a01f-bf27-9ac3-3a42-d2e3e215e054 "7.1" %}}
 
 {{< tableclose >}}
 
-[eChoupals Presentation - Nextlab Media](https://vimeo.com/2053155) from [FOOL DIDDLY](https://vimeo.com/user717518) on [Vimeo](https://vimeo.com).
+{{% resource_link "cb4529c1-7680-4640-a590-4bda3c6b3828" "eChoupals Presentation - Nextlab Media" %}} from {{% resource_link "a0fc794c-8130-4f38-aec5-86829deae60e" "FOOL DIDDLY" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
-This video was produced and provided by [FOOL DIDDLY](https://vimeo.com/user717518) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "a0fc794c-8130-4f38-aec5-86829deae60e" "FOOL DIDDLY" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
 {{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

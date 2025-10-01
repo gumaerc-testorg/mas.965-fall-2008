@@ -56,8 +56,8 @@ Sessions: {{% resource_link cd62710e-b01f-20a3-fc32-05326b919f3a "12.0" %}} | {{
 
 {{< tableclose >}}
 
-[eChoupals Presentation - Nextlab Media](https://vimeo.com/2053155) from [Nicole Prowell](http://vimeo.com/user658548) on [Vimeo](https://vimeo.com).
+{{% resource_link "cb4529c1-7680-4640-a590-4bda3c6b3828" "eChoupals Presentation - Nextlab Media" %}} from {{% resource_link "f6c21620-8f75-4836-aac9-27aff4ba03d3" "Nicole Prowell" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
-This video was produced and provided by [Nicole Prowell](http://vimeo.com/user658548) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "f6c21620-8f75-4836-aac9-27aff4ba03d3" "Nicole Prowell" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
 {{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

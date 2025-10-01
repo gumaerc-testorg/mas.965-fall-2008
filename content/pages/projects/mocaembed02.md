@@ -56,6 +56,6 @@ Demonstration
 
 {{< tableclose >}}
 
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=4134914&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
+{{% resource_link "98c91a91-223d-4d28-b729-96100d0d2e0e" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "64133ed4-0f66-4657-9e06-a35677adbc63" "nextlab" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

@@ -56,8 +56,8 @@ Sessions: {{% resource_link 4b8d8635-c48d-f1fb-219e-6fe87a738250 "19.0" %}} | {{
 
 {{< tableclose >}}
 
-[eChoupals Presentation - Nextlab Media](https://vimeo.com/3240350) from [nextlab](https://vimeo.com/3240350) on [Vimeo](https://vimeo.com).
+{{% resource_link "7fa0d4eb-9cbe-4664-8679-34345b8eb987" "eChoupals Presentation - Nextlab Media" %}} from {{% resource_link "7fa0d4eb-9cbe-4664-8679-34345b8eb987" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
-This video was produced and provided by [nextlab](http://vimeo.com/nextlab) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "64133ed4-0f66-4657-9e06-a35677adbc63" "nextlab" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
 {{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

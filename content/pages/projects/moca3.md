@@ -16,7 +16,7 @@ uid: 9992d20a-18d1-6a44-1d92-fde4ec7a3694
 
 **Mobile diagnostics in the developing world**  
 September 20th, 2008  
-Re-posted from [Ted Chan?s blog](http://gettogreen.blogspot.com/2008/09/open-innovation-for-health-care-in.html)
+Re-posted from {{% resource_link "4a722c4e-4f69-4f82-aa8d-8570180a26e7" "Ted Chan?s blog" %}}
 
 What do you get when you squish a project with General Electric to transmit ultrasound images in Belize and a project with Center for Infectious Disease in Zambia (CIDRZ) to diagnose cervical cancer in rural areas? I?m finding out over the next three months by using my technical project management skills on an important project to figure out how to transmit images over low bandwidth mobile networks.
 
@@ -40,7 +40,7 @@ I?m going to be posting out updates throughout the next three months that we?ll 
 
 **Solution evolves towards medical image workflow management**  
 September 21st, 2008  
-From [Ted Chan's blog](http://gettogreen.blogspot.com/2008/09/open-innovation-for-health-care-in.html)
+From {{% resource_link "4a722c4e-4f69-4f82-aa8d-8570180a26e7" "Ted Chan's blog" %}}
 
 Some updates on the MIT NextLab/global health project that I?m working on. Originally, CIDRZ and GE were supposed to be stakeholders, but due to bandwidth concerns, we?re primarily focused on the CIDRZ project and improving the workflow to diagnose and treat cervical cancer. However, having GE involved made us think about some of the more general issues that are out there, and we?re trying to build a solution that is scalable and solves a few of these.
 
@@ -54,11 +54,11 @@ We?re realizing that this has the potential to scale out not just the CIDRZ mode
 
 **NextLab team collaborates with OpenMRS to scale solution**  
 October 1, 2008  
-From [Ted Chan's blog](http://gettogreen.blogspot.com/2008/09/open-innovation-for-health-care-in.html)
+From {{% resource_link "4a722c4e-4f69-4f82-aa8d-8570180a26e7" "Ted Chan's blog" %}}
 
 I learned in my stint as an enterprise IT strategy consultant that IT is like the holy grail in Indiana Jones and the Last Crusade. Just as good technologies gives life, bad technology takes it away. Never has that statement been so literal as it is in developing world health care.
 
-As I mentioned in previous post, our project with CIDRZ to improve cervical cancer diagnosis in Zambia has evolved towards the workflow management back end to allow physicians to remotely review, diagnose and provide feedback on images. An exciting development is that we?ll be working to make this fit in with the [OpenMRS](http://www.openmrs.org/) system. OpenMRS is an open-source medical records system that is gaining traction in the developing world. If the goal is scalability, and having an impact beyond Zambia into the entire realm of developing world medical imaging, compatibility with OpenMRS is an extremely important step.  This will allow for what we develop to be leveraged and re-used and evolved.
+As I mentioned in previous post, our project with CIDRZ to improve cervical cancer diagnosis in Zambia has evolved towards the workflow management back end to allow physicians to remotely review, diagnose and provide feedback on images. An exciting development is that we?ll be working to make this fit in with the {{% resource_link "d228aabd-b541-49ec-beba-ed8b4bc434b2" "OpenMRS" %}} system. OpenMRS is an open-source medical records system that is gaining traction in the developing world. If the goal is scalability, and having an impact beyond Zambia into the entire realm of developing world medical imaging, compatibility with OpenMRS is an extremely important step.  This will allow for what we develop to be leveraged and re-used and evolved.
 
 At the Open Innovation Workshop that I attended in May, many of the younger PhD and me were wondering about models where collaboration and innovation enable by new ICTs could save this world. OpenMRS is an example, albeit one fraught with potential pitfalls. Medical records are an issue and a major cost for health care providers everywhere in the world. By providing a scalable, open source system and getting talented developers to work on add-in modules, OpenMRS offers a solution for providers looking to keep information technology costs low. This enables the providers to spend the money on what really matters ? treating patients.
 
@@ -70,16 +70,16 @@ There?s another team working on a front-end Android interface for medical record
 
 **Debating GPL versus BSD software license**  
 October 27, 2008  
-From [Ted Chan's blog](http://gettogreen.blogspot.com/2008/09/open-innovation-for-health-care-in.html)
+From {{% resource_link "4a722c4e-4f69-4f82-aa8d-8570180a26e7" "Ted Chan's blog" %}}
 
 Trying to figure out whether to use the GPL or BSD license. Numerodix had a good simplified explanation on it:
 
 *   _In the GPL license you have the four freedoms: to run the software, to have the source code, to distribute the software, to distribute your modifications to the software. What this implies is that when you obtain the software, you have the \*obligation\* to ensure that these four things hold true for the next person you give it to. After all, someone had to go to the trouble of preserving these rights for \*you\*, so you have to do the same for the next guy._
 *   _The BSD license is different, because it gives \*you\* the right to distribute the software, but it does not oblige you to make sure that the next guy has any such right. Well, that?s not really a problem, the next guy can ignore you and get the software from the same source that you did (if that source is still available). But if you change it and you give it to him, you can forbid him from passing it on._
 
-See the [Numerodix blog post](http://www.matusiak.eu/numerodix/blog/index.php/2007/12/15/gpl-vs-bsd-a-matter-of-sustainability/) for a more detailed explanation.
+See the {{% resource_link "2a93acdc-2375-40ee-8a08-017d7745a7ae" "Numerodix blog post" %}} for a more detailed explanation.
 
-FossWire also has a [good comparison here](http://fosswire.com/2007/04/06/the-differences-between-the-gpl-lgpl-and-the-bsd/).
+FossWire also has a {{% resource_link "957eba4f-7a6e-4e86-bb0b-f0b1208a3579" "good comparison here" %}}.
 
 What are we going to do with our open source mobile diagnostics workflow solution? As an open source software project, we?d like to license it out for non-profit use and use in the developing world for free. But we also think it?s possible our software might be modified for for-profit use in the developed world. In this case, we would want a reciprocal contribution - a donation, either in funding or code. I?m thinking that means GPL. GPL means that if another organizations uses or modifies any code your organization produces that code must also be licensed under the same terms.
 
