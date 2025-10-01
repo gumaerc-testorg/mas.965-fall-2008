@@ -52,6 +52,6 @@ Demonstration
 
 {{< tableclose >}}
 
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2475948&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
+{{% resource_link "ffae3921-8c89-4370-89b5-c81e180cc9a1" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Julianne Palazzo](http://vimeo.com/user722244) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "2b00f180-9417-46b8-b402-614f2c76f52f" "Julianne Palazzo" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

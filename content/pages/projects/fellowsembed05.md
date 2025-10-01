@@ -52,6 +52,6 @@ Milestone 2: Needs Assessment
 
 {{< tableclose >}}
 
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2092047&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
+{{% resource_link "cc22d6ab-7095-486b-ab5d-4f06764692e2" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Brian Moore](http://vimeo.com/brianmoore) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "584029bd-aa0a-4324-81a9-9c51df686e97" "Brian Moore" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

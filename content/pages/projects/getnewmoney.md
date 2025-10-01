@@ -27,7 +27,7 @@ We are very excited about this project. This idea has been tried before and, in 
 Partners
 --------
 
-[Cobiscorp](http://www.cobiscorp.com/)
+{{% resource_link "cc0546cf-e08c-4f2e-9129-3484e602b2b2" "Cobiscorp" %}}
 
 Project Team
 ------------
@@ -77,7 +77,7 @@ Elisabeth Megally
 Project Documentation
 ---------------------
 
-Slides are presented courtesy of the students, used with permission. Videos are from [nextlab](https://vimeo.com/nextlab/) on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
+Slides are presented courtesy of the students, used with permission. Videos are from {{% resource_link "c13168dc-2b07-480e-83d3-4cde17f185f2" "nextlab" %}} on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -102,7 +102,7 @@ Summary
 {{< tdopen >}}
 
 
-[Get New Money final video Fall 2008](https://vimeo.com/4885730) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "19d95022-2af1-432c-adc8-a03dbd2dbd23" "Get New Money final video Fall 2008" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
 
 {{< tdclose >}}
@@ -115,7 +115,7 @@ Demonstration
 {{< tdopen >}}
 
 
-[Get New Money demo video Fall 2008](https://vimeo.com/4872914) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "92a80496-0655-4ec3-94d7-473b15a3ee1d" "Get New Money demo video Fall 2008" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
 
 {{< tdclose >}}
@@ -128,7 +128,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[Get New Money Final Presentation](https://vimeo.com/3145303) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "51ef1e47-1617-4f95-ab45-8d86e8f5aa5e" "Get New Money Final Presentation" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
   
 {{% resource_link "ecbe4e1d-59f7-85f7-9d59-e52de0f0cf07" "PDF   " %}}
@@ -175,7 +175,7 @@ Milestone 4: Sustainability
 {{< tdopen >}}
 
 
-[Get New Money Milestone 4/Sustainability Plan](https://vimeo.com/3187230) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "27de90bc-578f-43df-9d83-3ba088e1d9be" "Get New Money Milestone 4/Sustainability Plan" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
   
 {{% resource_link 4a2d006b-d5b3-48af-2819-d6ea90690d27 "PDF" %}}

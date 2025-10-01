@@ -21,7 +21,7 @@ The Boston Baby Blog is a joint venture with the Boston Mayor’s Office aimed a
 Partners
 --------
 
-Boston, MA Mayor's Office, [Thrive in 5](http://www.thrivein5boston.org/) program
+Boston, MA Mayor's Office, {{% resource_link "3c2aed1b-ed0f-4527-84ab-122899d936cb" "Thrive in 5" %}} program
 
 Project Team
 ------------

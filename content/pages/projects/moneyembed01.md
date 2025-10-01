@@ -56,6 +56,6 @@ Summary
 
 {{< tableclose >}}
 
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=4885730&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
+{{% resource_link "b7307fe4-c717-4255-a7d5-ba2b1d9d5b11" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Helyne Adamson](http://vimeo.com/helyneadamson) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "7b055e39-d653-4b2f-9200-28b1489ed4d3" "Helyne Adamson" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

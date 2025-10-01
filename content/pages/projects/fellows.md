@@ -21,7 +21,7 @@ The Fellows Forum is a project that, partnered with the Telmex Foundation, will 
 Partners
 --------
 
-[Telmex Foundation](http://www.fundaciontelmex.org/)
+{{% resource_link "30aa4a09-4371-4b0f-a244-e15cd7a00fde" "Telmex Foundation" %}}
 
 Project Team
 ------------
@@ -72,7 +72,7 @@ Andrés Monroy-Hernandez
 Project Documentation
 ---------------------
 
-Slides are presented courtesy of the students, used with permission. Videos are from [nextlab](https://vimeo.com/nextlab/) on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
+Slides are presented courtesy of the students, used with permission. Videos are from {{% resource_link "c13168dc-2b07-480e-83d3-4cde17f185f2" "nextlab" %}} on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -97,7 +97,7 @@ Summary
 {{< tdopen >}}
 
 
-[Telmex Fellows Forum final video Fall 2008](https://vimeo.com/4873266) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "2e5ad40b-3f51-4be3-be85-628147a4129d" "Telmex Fellows Forum final video Fall 2008" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
 
 {{< tdclose >}}
@@ -110,7 +110,7 @@ Demonstration
 {{< tdopen >}}
 
 
-[Telmex Fellows Forum demo video Fall 2008](https://vimeo.com/4872804) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "145f22fb-0dc7-427f-a6ce-20f8ca90f1c9" "Telmex Fellows Forum demo video Fall 2008" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
 
 {{< tdclose >}}
@@ -123,7 +123,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[Telmex Fellows Forum Final Presentation](https://vimeo.com/3151171) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "638da2e4-ed92-4701-96bb-160496b47415" "Telmex Fellows Forum Final Presentation" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
   
 {{% resource_link 4d1eba74-b42b-c44e-f72f-0c2c7f7bffdc "PDF" %}}
@@ -161,7 +161,7 @@ Milestone 3: System Design and Initial Implementation
 {{< tdopen >}}
 
 
-[fellows forum milestone 3](https://vimeo.com/2570324) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "5c29f00a-d01f-4886-81e4-b349f95c6643" "fellows forum milestone 3" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
   
 {{% resource_link 588ee175-f89e-f632-d1bb-b6896f7d4c52 "PDF" %}}

@@ -27,7 +27,7 @@ M-commerce is a self-sustaining mobile commerce system that empowers the poor an
 Partners
 --------
 
-[United Villages](https://www.crunchbase.com/organization/united-villages-inc)
+{{% resource_link "8f5b19fd-6782-4e62-a1e4-126cddccf9bd" "United Villages" %}}
 
 Project Team
 ------------
@@ -71,7 +71,7 @@ Kady Buchanan
 Project Documentation
 ---------------------
 
-Slides are presented courtesy of the students, used with permission. Videos are from [nextlab](https://vimeo.com/nextlab/) on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
+Slides are presented courtesy of the students, used with permission. Videos are from {{% resource_link "c13168dc-2b07-480e-83d3-4cde17f185f2" "nextlab" %}} on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -96,7 +96,7 @@ Summary
 {{< tdopen >}}
 
 
-[M-Commerce final video Fall 2008](https://vimeo.com/4886065) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "989875b3-4476-4761-aafb-5b4a6ab11e37" "M-Commerce final video Fall 2008" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
 
 {{< tdclose >}}
@@ -109,7 +109,7 @@ Demonstration
 {{< tdopen >}}
 
 
-[M-Commerce demo Fall 2008](https://vimeo.com/4872619) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "fec85b5f-6dce-4364-995e-a36f25c4096b" "M-Commerce demo Fall 2008" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
 
 {{< tdclose >}}
@@ -122,7 +122,7 @@ Final Class Presentation
 {{< tdopen >}}
 
 
-[United Villages M-Commerce Final Presentation](https://vimeo.com/3163018) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "e7df7b37-c682-4f49-bc8a-60e6614b4f6a" "United Villages M-Commerce Final Presentation" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
   
 {{% resource_link 512cb363-0f89-a053-8f4a-569f49672a3a "PDF" %}}
@@ -169,7 +169,7 @@ Milestone 4: Sustainability
 {{< tdopen >}}
 
 
-[M-Commerce Milestone 4/Sustainability Plan](https://vimeo.com/3187212) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+{{% resource_link "3b88e5ac-f644-424e-aa76-da7fecfe6006" "M-Commerce Milestone 4/Sustainability Plan" %}} from {{% resource_link "4d1fb50d-4261-485a-877b-cbc03e77de9d" "nextlab" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
   
 {{% resource_link be654cf2-54c4-617d-7a42-0b0634787da5 "PDF" %}}

@@ -56,8 +56,8 @@ Sessions: {{% resource_link cd62710e-b01f-20a3-fc32-05326b919f3a "12.0" %}} | 12
 
 {{< tableclose >}}
 
-[eChoupals Presentation - Nextlab Media](https://vimeo.com/2066004) from [Disaster Management](https://vimeo.com/user807017) on [Vimeo](https://vimeo.com).
+{{% resource_link "ac763283-19a0-443e-bce9-b434c2ad7eda" "eChoupals Presentation - Nextlab Media" %}} from {{% resource_link "e8d4378e-d77b-4daf-8d15-97565849a12b" "Disaster Management" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
-This video was produced and provided by [Disaster Management](http://vimeo.com/user807017) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "d8a419a2-16c3-4503-ae8b-668b05044802" "Disaster Management" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
 {{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

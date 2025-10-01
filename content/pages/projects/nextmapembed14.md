@@ -24,6 +24,6 @@ Episode 6
 {{% resource_link "9632782f-763a-869e-df2a-abf4d8e52e0d" "« previous project page" %}} | {{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "project home" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-[Watch the video on Vimeo](https://vimeo.com/2274938)
+{{% resource_link "2a0c0f6b-532b-4b6d-a6d4-32c74c7f008b" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Disaster Management](http://vimeo.com/user807017) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "d8a419a2-16c3-4503-ae8b-668b05044802" "Disaster Management" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

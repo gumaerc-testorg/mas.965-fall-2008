@@ -52,6 +52,6 @@ Episode 4
 
 {{< tableclose >}}
 
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2136271&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)[](http://vimeo.com/moogaloop.swf?clip_id=1957271&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
+{{% resource_link "02797034-2e5e-487c-ac3b-09f76b1d08c3" "Watch the video on Vimeo" %}}{{% resource_link "7e0815d9-c3b0-44de-aa44-6a2ea08a251b" "" %}}
 
-This video was produced and provided by [Elliot Higger](http://vimeo.com/user718926) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "08fbcc18-aeb8-40fb-ae5c-3271adaf28ae" "Elliot Higger" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

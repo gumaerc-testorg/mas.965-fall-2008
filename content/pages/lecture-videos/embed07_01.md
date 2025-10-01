@@ -56,8 +56,8 @@ Sessions: {{% resource_link b3488084-64c8-ed51-2aaf-62c376b1badf "7.0" %}} | 7.1
 
 {{< tableclose >}}
 
-[eChoupals Presentation - Nextlab Media](https://vimeo.com/2104614) from [Julianne Palazzo](https://vimeo.com/user722244) on [Vimeo](https://vimeo.com).
+{{% resource_link "1e7f0a6f-02c4-407d-a44c-0951de34c1b0" "eChoupals Presentation - Nextlab Media" %}} from {{% resource_link "a15a59a8-75d3-499c-98d5-03e3c4964361" "Julianne Palazzo" %}} on {{% resource_link "43d4baff-1160-4acc-ac28-ebb9a407eb64" "Vimeo" %}}.
 
-This video was produced and provided by [Julianne Palazzo](https://vimeo.com/user722244) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "a15a59a8-75d3-499c-98d5-03e3c4964361" "Julianne Palazzo" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
 
 {{% resource_link "2fea8c16-00d0-bf58-c7a4-ce2f92360b8e" "« back to lecture index" %}}

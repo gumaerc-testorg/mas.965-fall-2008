@@ -56,6 +56,6 @@ Milestone 3: System Design and Initial Implementation
 
 {{< tableclose >}}
 
-[Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2325072&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
+{{% resource_link "67ef0e08-d2e2-4cfe-bfd7-19549121d84b" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Josh Kirchmer](http://vimeo.com/user721639) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "d84c0e56-9ae6-49dc-8360-a59a06aea341" "Josh Kirchmer" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
