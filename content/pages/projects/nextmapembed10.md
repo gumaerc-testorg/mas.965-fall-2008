@@ -28,6 +28,6 @@ Episode 2: "Addressing the needs of CRS"
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-[Watch the video on Vimeo](https://vimeo.com/1880167)
+{{% resource_link "b62bf159-f86e-4b03-8b65-b3cf811351df" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Disaster Management](http://vimeo.com/user807017) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "d8a419a2-16c3-4503-ae8b-668b05044802" "Disaster Management" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

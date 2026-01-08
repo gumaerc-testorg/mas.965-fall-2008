@@ -24,6 +24,6 @@ Catholic Relief Services — disaster assessment
 {{% resource_link "af5d9aa1-20f8-a35b-ca15-c55ffa6534e3" "« previous project page" %}} | {{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "project home" %}} | {{% resource_link "935f57ad-ca9a-cf82-5a57-fcc96a7cb984" "next project page >" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-[Watch the video on Vimeo](https://vimeo.com/2464809)
+{{% resource_link "d871293c-f983-4d83-8e56-a9d677c2e0fb" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Disaster Management](http://vimeo.com/user807017) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "d8a419a2-16c3-4503-ae8b-668b05044802" "Disaster Management" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

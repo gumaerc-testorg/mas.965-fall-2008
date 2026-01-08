@@ -28,6 +28,6 @@ Milestone 2: Needs Assessment
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-[Watch the video on Vimeo](https://vimeo.com/2347013)
+{{% resource_link "98f459d8-b92f-49ce-ac70-d3e93edca59a" "Watch the video on Vimeo" %}}
 
-This video was produced and provided by [Disaster Management](http://vimeo.com/user807017) via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "d8a419a2-16c3-4503-ae8b-668b05044802" "Disaster Management" %}} via Vimeo, and is not covered under our [Creative Commons license](/terms/#cc).

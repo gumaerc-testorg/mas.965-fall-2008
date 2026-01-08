@@ -24,4 +24,4 @@ Summary
 {{% resource_link "4a2d649b-f7aa-7691-6f23-275d621a0437" "project home" %}} | {{% resource_link "cb84bd19-8cb8-5d03-a310-8e7780066505" "next project page >" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-This video is no longer available. See [Disaster Management](http://vimeo.com/user807017) via Vimeo.
+This video is no longer available. See {{% resource_link "d8a419a2-16c3-4503-ae8b-668b05044802" "Disaster Management" %}} via Vimeo.
